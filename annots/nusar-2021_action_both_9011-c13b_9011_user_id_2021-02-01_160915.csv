@@ -1,0 +1,17 @@
+3680,5021,attach,wheel,chassis,correct,
+5202,5600,attach,step,chassis,mistake,wrong position
+5600,5940,attach,cabin,chassis,mistake,wrong order
+5940,6076,attach,light,cabin,correct,
+6076,6301,attach,body,chassis,mistake,wrong position
+6301,6397,detach,body,chassis,correction,
+6397,6460,detach,cabin,chassis,correction,
+6460,6507,attach,cabin,chassis,mistake,wrong order
+6507,6872,attach,body,chassis,correct,
+6965,6984,detach,cabin,chassis,correction,
+6984,7104,detach,step,chassis,correction,
+7104,7209,attach,step,chassis,correct,
+7236,7329,attach,cabin,chassis,correct,
+7435,7496,attach,strap,chassis,correct,
+8319,8445,attach,boom,cabin,correct,
+8729,9020,attach,arm,boom,correct,
+9509,9984,attach,jackhammer,arm,correct,

@@ -1,0 +1,8 @@
+4645,5087,attach,interior,chassis,correct,
+5585,6077,attach,wheel,chassis,correct,
+6077,6618,attach,tilter,interior,mistake,wrong position
+6785,7178,detach,tilter,interior,correction,
+7178,7728,attach,tilter,interior,correct,
+7728,8541,attach,dump bed,tilter,correct,
+8795,11276,attach,wheel,chassis,correct,
+11463,12048,attach,cabin,interior,correct,

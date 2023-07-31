@@ -1,0 +1,29 @@
+6455,7326,attach,bumper,chassis,correct,
+7326,7364,detach,bumper,chassis,mistake,shouldn't have happened
+7364,7509,attach,body,chassis,mistake,wrong position
+7509,7543,detach,body,chassis,correction,
+7543,9394,attach,wheel,chassis,correct,
+9638,9986,attach,bumper,rear body,mistake,wrong position
+9986,10190,attach,rear body,chassis,mistake,wrong order
+10190,10334,detach,bumper,rear body,correction,
+11074,11177,detach,rear body,chassis,correction,
+11177,11491,attach,bumper,rear body,mistake,wrong position
+11491,11886,attach,rear body,chassis,mistake,wrong order
+11886,11913,detach,rear body,chassis,correction,
+11913,12055,detach,bumper,rear body,correction,
+12559,13052,attach,interior,chassis,correct,
+13052,13650,attach,bumper,chassis,correct,
+13650,13710,detach,bumper,chassis,mistake,shouldn't have happened
+13710,14096,attach,rear body,interior,mistake,wrong order
+14096,14152,detach,rear body,bumper,correction,
+14239,14307,attach,rear body,interior,mistake,wrong position
+14307,14383,detach,rear body,interior,correction,
+14383,14590,attach,body,interior,correct,
+14590,14640,attach,rear body,chassis,mistake,worng order
+14640,14700,detach,rear body,chassis,correction,
+14700,14896,attach,bumper,chassis,correct,
+14908,14955,detach,bumper,rear body,mistake,shouldn't have happened
+14982,15111,attach,rear body,chassis,correct,
+15111,15446,attach,bumper,chassis,correct,
+15446,16194,attach,roof,rear body,correct,
+16194,16694,attach,spoiler,rear body,correct,

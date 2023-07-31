@@ -1,0 +1,15 @@
+6498,6623,attach,sound module,chassis,correct,
+6623,8176,attach,wheel,chassis,correct,
+8176,8477,attach,interior,cabin,correct,
+8477,8661,attach,cabin,interior,correct,
+9033,9432,attach,base,chassis,correct,
+9432,9480,detach,base,chassis,mistake,shouldn't have happened
+9480,9502,detach,cabin,interior,mistake,shouldn't have happened
+9502,9536,detach,interior,chassis,mistake,shouldn't have happened
+9536,9687,attach,interior,cabin,correct,
+10359,10509,attach,interior,chassis,correct,
+10509,10951,attach,bumper,cabin,correct,
+11189,11922,attach,roof,cabin,correct,
+11922,12131,attach,light,roof,correct,
+12131,12486,attach,base,chassis,correct,
+12486,14438,attach,water tank,base,correct,

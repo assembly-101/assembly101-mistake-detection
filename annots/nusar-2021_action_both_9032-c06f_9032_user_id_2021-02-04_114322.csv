@@ -1,0 +1,16 @@
+7310,7951,attach,interior,chassis,correct,
+7951,8432,attach,light,cabin,correct,
+8432,8524,attach,sound module,cabin,correct,
+8524,9273,attach,interior,cabin,correct,
+9273,9558,attach,body,chassis,correct,
+9558,10126,detach,sound module,cabin,mistake,shouldn't have happened
+10126,10279,attach,sound module,cabin,correct,
+10279,11540,attach,turntable base,body,correct,
+11540,12810,attach,ladder basket,turntable base,correct,
+12810,13732,attach,wheel,chassis,correct,
+13732,13852,detach,sound module,cabin,mistake,shouldn't have happened
+13852,13951,attach,sound module,cabin,correct,
+13951,14474,attach,wheel,chassis,correct,
+14474,14506,detach,sound module,cabin,mistake,shouldn't have happened
+14895,15025,attach,sound module,cabin,correct,
+15025,16009,attach,roof,cabin,correct,

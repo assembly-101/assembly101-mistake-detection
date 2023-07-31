@@ -1,0 +1,15 @@
+3320,4281,attach,wheel,chassis,correct,
+4499,4888,attach,interior,chassis,correct,
+4888,5018,attach,cabin,interior,correct,
+5018,5153,attach,body,chassis,mistake,wrong order
+5153,5227,attach,arm connector,chassis,correct,
+5689,5743,detach,body,chassis,correction,
+5743,5812,attach,bumper,body,correct,
+5812,5925,attach,body,chassis,correct,
+5925,5970,detach,arm connector,chassis,mistake,shouldn't have happened
+6369,6635,attach,boom,arm connector,correct,
+6635,6681,attach,arm,arm,correct,
+6681,7629,attach,jackhammer,arm,correct,
+7629,7817,attach,arm,boom,correct,
+7817,8583,attach,arm connector,chassis,correct,
+8583,8880,attach,roof,cabin,correct,

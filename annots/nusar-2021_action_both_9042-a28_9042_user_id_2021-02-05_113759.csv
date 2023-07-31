@@ -1,0 +1,8 @@
+6478,7295,attach,interior,chassis,correct,
+7295,7776,attach,body,interior,correct,
+8196,8643,attach,engine cover,body,correct,
+8643,9384,attach,roof,body,mistake,wrong order
+9582,10258,detach,roof,body,correction,
+10258,10590,attach,wheel,body,correct,
+10590,11043,attach,roof,body,correct,
+11043,12213,attach,wheel,chassis,correct,

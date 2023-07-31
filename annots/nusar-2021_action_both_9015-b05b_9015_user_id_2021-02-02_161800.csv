@@ -1,0 +1,10 @@
+7554,8253,attach,turntable base,interior,correct,
+8253,9281,attach,rear bumper,interior,correct,
+9281,10737,attach,wheel,chassis,correct,
+10848,11977,attach,turntable top,turntable base,correct,
+13848,14506,attach,bumper,chassis,mistake,wrong order
+14506,15271,attach,cabin,chassis,mistake,wrong order
+15271,15808,detach,cabin,chassis,correction,
+15808,16079,detach,bumper,chassis,correction,
+16079,16451,attach,cabin,interior,correct,
+16451,16944,attach,bumper,cabin,correct,

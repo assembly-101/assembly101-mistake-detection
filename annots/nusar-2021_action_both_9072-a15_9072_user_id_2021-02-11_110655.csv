@@ -1,0 +1,5 @@
+4798,5870,attach,chassis,chassis,correct,
+5870,6301,attach,container,chassis,correct,
+6301,8577,attach,wheel,chassis,correct,
+8577,9067,attach,bumper,chassis,correct,
+9067,9383,attach,cabin,chassis,correct,

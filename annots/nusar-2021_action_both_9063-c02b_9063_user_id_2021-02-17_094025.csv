@@ -1,0 +1,11 @@
+5387,5731,attach,interior,chassis,correct,
+5731,6388,attach,body,cabin,mistake,wrong position
+6388,6450,detach,body,cabin,correction,
+6450,6602,attach,cabin,interior,correct,
+6602,6835,attach,body,chassis,correct,
+7700,8085,attach,bumper,body,correct,
+8085,12986,attach,bucket,arm,correct,
+12986,13595,attach,arm connector,arm,correct,
+13595,14252,attach,arm connector,body,correct,
+14847,15985,attach,roof,cabin,correct,
+15985,17170,attach,wheel,chassis,correct,

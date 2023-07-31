@@ -1,0 +1,12 @@
+5396,6697,attach,wheel,chassis,correct,
+6697,7083,attach,interior,chassis,correct,
+7083,7500,attach,bumper,chassis,mistake,wrong position
+7500,7661,detach,bumper,chassis,correction,
+7661,7833,attach,cabin,interior,correct,
+7833,8301,attach,roof,cabin,correct,
+8301,8378,detach,cabin,interior,mistake,shouldn't have happened
+8518,8599,attach,cabin,interior,correct,
+8599,9036,attach,bumper,cabin,correct,
+9036,9331,attach,water tank,water tank,correct,
+9331,9847,attach,rear roof,water tank,correct,
+9847,10084,attach,base,chassis,correct,

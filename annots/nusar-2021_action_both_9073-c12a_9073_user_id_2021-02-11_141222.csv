@@ -1,0 +1,11 @@
+6494,7023,attach,interior,chassis,correct,
+7023,7421,attach,cabin,interior,correct,
+8085,8638,attach,grill,cabin,correct,
+8638,10079,attach,base,chassis,correct,
+10257,11689,attach,turntable base,base,correct,
+12254,12883,attach,roof,cabin,correct,
+12883,13148,detach,turntable base,base,mistake,shouldn't have happened
+13148,13944,detach,base,chassis,mistake,shouldn't have happened
+14915,15640,attach,base,chassis,correct,
+15640,16284,attach,turntable base,base,correct,
+16284,18206,attach,wheel,chassis,correct,

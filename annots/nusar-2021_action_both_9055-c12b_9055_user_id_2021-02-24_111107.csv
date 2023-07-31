@@ -1,0 +1,10 @@
+3267,3443,attach,interior,chassis,correct,
+3443,3610,attach,cabin,interior,correct,
+3778,3821,detach,cabin,interior,mistake,shouldn't have happened
+3821,3985,attach,cabin,interior,correct,
+3985,4408,attach,grill,cabin,correct,
+4408,4812,attach,base,chassis,correct,
+4812,5650,attach,water tank,base,correct,
+5650,5910,attach,roof,cabin,correct,
+5910,6041,attach,light,roof,correct,
+6041,6991,attach,wheel,chassis,correct,

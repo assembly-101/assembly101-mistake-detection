@@ -1,0 +1,30 @@
+5498,5710,attach,bucket,arm,correct,
+5710,5986,attach,chassis,chassis,correct,
+6400,6476,attach,body,chassis,mistake,wrong position
+7160,7209,detach,body,chassis,correction,
+7675,7839,attach,body,chassis,correct,
+8373,8422,detach,cabin,chassis,mistake,shouldn't have happened
+8373,8422,detach,body,chassis,mistake,shouldn't have happened
+8562,8655,attach,cabin,chassis,correct,
+8655,8662,detach,cabin,chassis,mistake,shouldn't have happened
+8662,9058,attach,arm,cabin,correct,
+9058,9132,attach,body,chassis,correct,
+9132,10163,attach,bucket,arm,correct,
+10163,10275,attach,figurine,cabin,correct,
+10275,10362,attach,cabin,chassis,correct,
+10478,10554,detach,cabin,chassis,mistake,shouldn't have happened
+10554,10583,detach,chassis,chassis,mistake,shouldn't have happened
+10591,10698,attach,cabin,chassis,correct,
+10698,10706,attach,body,chassis,correct,
+10706,10761,detach,body,chassis,mistake,shouldn't have happened
+10761,10986,detach,cabin,chassis,mistake,shouldn't have happened
+10986,11154,attach,cabin,chassis,correct,
+11154,11202,attach,body,chassis,correction,
+11382,11496,detach,cabin,chassis,mistake,shouldn't have happened
+11772,12007,attach,track,chassis,mistake,wrong order
+12007,12076,detach,track,chassis,correction,
+12076,12180,attach,body,chassis,correct,
+12180,12257,attach,cabin,chassis,correct,
+12468,12519,detach,figurine,cabin,mistake,shouldn't have happened
+13555,14674,attach,track,chassis,correct,
+14674,14845,attach,figurine,cabin,correct,

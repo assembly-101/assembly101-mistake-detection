@@ -1,0 +1,12 @@
+4718,5147,attach,step,chassis,correct,
+5147,7371,attach,wheel,chassis,correct,
+7371,8229,attach,body,chassis,correct,
+8520,8642,attach,cabin,chassis,correct,
+8642,8676,detach,cabin,chassis,mistake,shouldn't have happened
+8676,8904,detach,body,chassis,mistake,shouldn't have happened
+8904,9115,attach,cabin,chassis,correct,
+9115,9981,attach,strap,cabin,correct,
+9981,10754,attach,body,chassis,correct,
+10754,11840,attach,bucket,body,correct,
+12280,12570,detach,strap,cabin,mistake,shouldn't have happened
+12570,12870,attach,strap,cabin,correct,

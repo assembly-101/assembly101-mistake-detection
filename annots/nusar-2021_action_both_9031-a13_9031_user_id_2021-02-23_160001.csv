@@ -1,0 +1,11 @@
+4612,4807,attach,base,chassis,correct,
+4807,5112,attach,interior,chassis,correct,
+5112,5184,attach,cabin,interior,correct,
+5184,5271,detach,base,chassis,mistake,shouldn't have happened
+5271,5387,attach,base,chassis,correct,
+6041,6184,attach,light,roof,correct,
+6184,6406,attach,roof,cabin,correct,
+6406,6803,attach,bumper,cabin,correct,
+6803,8353,attach,wheel,chassis,correct,
+8353,9041,attach,dump bed,base,correct,
+9041,10215,attach,cylinder,dump bed,correct,

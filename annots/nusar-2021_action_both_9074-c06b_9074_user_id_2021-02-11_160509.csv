@@ -1,0 +1,12 @@
+4507,6225,attach,wheel,chassis,correct,
+6225,6445,attach,interior,chassis,correct,
+6541,6741,attach,mixer stand,chassis,correct,
+6741,7132,attach,mixer,mixer stand,mistake,wrong position
+7587,8084,attach,roof,cabin,mistake,wrong order
+8084,8194,attach,sound module,cabin,mistake,previous one is a mistake
+8194,8223,detach,sound module,cabin,correction,
+8223,8272,detach,roof,cabin,correction,
+8272,8329,attach,sound module,cabin,correct,
+8329,9046,attach,roof,cabin,correct,
+11227,11298,detach,mixer,mixer stand,correction,
+11298,11777,attach,mixer,mixer stand,correct,

@@ -1,0 +1,18 @@
+2640,2839,attach,battery,chassis,correct,
+2839,3794,attach,wheel,chassis,correct,
+3794,3923,attach,bumper,chassis,correct,
+3923,4042,attach,body,chassis,mistake,wrong position
+4042,4215,attach,rear body,chassis,mistake,previous one is mistake
+4215,4361,attach,roof,rear body,mistake,previous one is mistake
+4361,4398,detach,roof,rear body,correction,
+4398,4414,detach,body,chassis,correction,
+4556,4603,detach,rear body,chassis,correction,
+4603,4686,attach,interior,chassis,correct,
+4686,4789,attach,rear body,chassis,mistake,wrong order
+4789,4977,attach,body,interior,mistake,previous one is mistake
+4977,5006,detach,body,interior,correction,
+5161,5218,detach,rear body,chassis,correction,
+5218,5376,attach,body,interior,correct,
+5376,5565,attach,rear body,chassis,correct,
+5565,5691,attach,roof,rear body,correct,
+5930,6168,attach,spoiler,rear body,correct,

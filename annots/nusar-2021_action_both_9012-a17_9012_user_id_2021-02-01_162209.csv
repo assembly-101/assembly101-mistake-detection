@@ -1,0 +1,13 @@
+4013,5393,attach,wheel,chassis,correct,
+5393,5634,attach,base,chassis,mistake,wrong order
+5634,5879,attach,cabin,chassis,mistake,wrong order
+6371,6376,detach,cabin,chassis,correction,
+6376,6390,detach,base,chassis,correction,
+6390,6435,attach,interior,chassis,correct,
+6435,6754,attach,cabin,interior,correct,
+6754,6929,attach,base,chassis,correct,
+7965,8659,attach,water tank,base,correct,
+8659,9119,attach,turntable top,water tank,correct,
+9119,9445,attach,fire extinguisher,turntable top,correct,
+9445,9824,attach,roof,cabin,correct,
+9824,10300,attach,bumper,cabin,correct,

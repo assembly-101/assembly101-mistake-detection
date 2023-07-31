@@ -1,0 +1,16 @@
+5268,6850,attach,wheel,chassis,correct,
+6850,6976,attach,base,chassis,correct,
+7003,7025,detach,base,chassis,mistake,shouldn't have happened
+7025,7464,attach,interior,chassis,correct,
+7464,7586,attach,cabin,interior,correct,
+7586,7684,attach,base,chassis,correct,
+8533,9120,attach,body,base,correct,
+9120,10472,attach,boom,turntable top,correct,
+10472,11010,attach,roof,cabin,correct,
+11010,11347,attach,bumper,cabin,correct,
+11724,11845,detach,turntable top,body,mistake,shouldn't have happened
+11845,12413,detach,body,base,mistake,shouldn't have happened
+12413,12660,detach,turntable top,boom,mistake,shouldn't have happened
+12660,13015,attach,body,base,correct,
+13015,13259,attach,turntable top,body,correct,
+13259,13480,attach,boom,turntable top,correct,

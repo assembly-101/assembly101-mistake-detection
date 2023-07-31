@@ -1,0 +1,18 @@
+6325,6407,attach,cabin,chassis,mistake,wrong order
+6407,6465,detach,cabin,chassis,correction,
+6465,6817,attach,body,chassis,correct,
+6817,6869,detach,body,chassis,mistake,shouldn't have happened
+6869,6965,attach,turnplate,body,correct,
+6965,7015,attach,cabin,chassis,mistake,wrong order
+7015,7049,detach,cabin,chassis,correction,
+7049,7250,attach,interior,chassis,correct,
+7250,7746,attach,cabin,interior,correct,
+7746,8779,attach,turntable top,body,correct,
+8779,10586,attach,boom,turntable top,correct,
+10586,12053,attach,clamp,arm,correct,
+12053,12994,attach,boom,arm,correct,
+12994,14457,attach,body,chassis,correct,
+14457,14976,attach,wheel,chassis,correct,
+15230,16283,detach,body,chassis,mistake,shouldn't have happened
+16283,17445,attach,body,chassis,correct,
+17445,18361,attach,wheel,chassis,correct,

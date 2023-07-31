@@ -1,0 +1,20 @@
+7109,7251,attach,cabin window,turntable base,correct,
+7251,7404,attach,turntable base,base,correct,
+7404,7650,attach,interior,cabin,correct,
+7650,8882,attach,turntable base,chassis,mistake,wrong order
+8882,8927,detach,turntable base,chassis,correction,
+8927,8930,detach,cabin,interior,mistake,shouldn't have happened
+8930,9017,attach,interior,chassis,correct,
+9017,9145,attach,cabin,interior,correct,
+9145,9245,attach,base,chassis,correct,
+9245,9280,detach,base,chassis,mistake,shouldn't have happened
+9355,9446,detach,turntable base,base,mistake,shouldn't have happened
+9446,9678,attach,base,chassis,correct,
+9678,10137,attach,turntable base,base,correct,
+11441,12233,attach,wheel,chassis,correct,
+12233,12576,attach,roof,cabin,correct,
+12576,13017,attach,bumper,cabin,correct,
+13017,13184,attach,arm,arm,correct,
+13184,13520,attach,boom,arm,correct,
+13953,14381,attach,hook,arm,correct,
+14381,15298,attach,boom,turntable base,correct,

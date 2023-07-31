@@ -1,0 +1,15 @@
+3527,3625,attach,arm connector,cabin,mistake,wrong position
+3625,3664,detach,arm connector,cabin,correction,
+3664,3820,attach,interior,chassis,correct,
+3820,3999,attach,cabin,interior,correct,
+3999,4025,detach,cabin,interior,mistake,shouldn't have happened
+4025,4133,attach,bumper,cabin,correct,
+4133,4589,attach,cabin,interior,correct,
+4589,4725,attach,arm connector,cabin,mistake,wrong position
+4725,4749,detach,arm connector,cabin,correction,
+4749,4903,attach,arm,boom,correct,
+4903,5408,attach,jackhammer,arm,correct,
+5408,5544,attach,arm connector,boom,correct,
+5544,6203,attach,arm connector,chassis,correct,
+6766,7081,attach,roof,cabin,correct,
+7081,8045,attach,wheel,chassis,correct,

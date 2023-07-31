@@ -1,0 +1,23 @@
+3564,3701,attach,interior,rear body,mistake,wrong position
+3701,3897,attach,cabin,interior,mistake,previous one was mistake
+3897,4057,attach,roof,cabin,correct,
+4057,4257,attach,step,chassis,mistake,wrong position
+4257,4571,attach,bumper,chassis,correct,
+4571,4659,detach,step,chassis,correction,
+4659,4840,attach,step,chassis,correct,
+4840,5050,attach,rear body,chassis,mistake,wrong position
+5050,5110,detach,roof,cabin,mistake,shouldn't have happened
+5291,5386,attach,roof,cabin,correct,
+5386,5780,attach,body,chassis,correct,
+5780,5922,detach,roof,cabin,mistake,shouldn't have happened
+5922,6121,detach,rear body,chassis,correction,
+6121,6355,attach,rear body,chassis,correct,
+6355,6437,detach,cabin,interior,correction,
+6437,6527,detach,interior,rear body,correction,
+6527,6591,attach,interior,rear body,correct,
+6591,6824,attach,cabin,interior,correct,
+6824,6886,attach,roof,cabin,correct,
+7236,8157,attach,bucket,arm,correct,
+8157,8683,attach,arm,body,correct,
+8683,9861,attach,wheel,chassis,correct,
+9861,10366,attach,track,wheel,correct,

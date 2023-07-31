@@ -1,0 +1,16 @@
+3662,4809,attach,wheel,chassis,correct,
+4809,5413,attach,base,chassis,mistake,wrong order
+5413,5567,attach,interior,cabin,correct,
+5567,5701,attach,interior,chassis,mistake,previous one is a mistake
+5701,6049,detach,interior,chassis,correction,
+6049,6583,detach,base,chassis,correction,
+6583,6603,detach,cabin,interior,mistake,shouldn't have happened
+6603,6857,attach,interior,chassis,correct,
+6857,7076,attach,cabin,interior,correct,
+7076,7528,attach,base,chassis,correct,
+7528,7838,attach,roof,cabin,correct,
+7838,7883,detach,light,roof,mistake,shouldn't have happened
+7924,8001,attach,light,roof,correct,
+8145,8460,attach,grill,cabin,correct,
+8460,9101,attach,turntable base,base,correct,
+9101,9403,attach,ladder basket,ladder,correct,

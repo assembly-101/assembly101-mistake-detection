@@ -1,0 +1,8 @@
+4046,5175,attach,track,chassis,correct,
+5175,6085,attach,blade,track,correct,
+6085,6135,attach,roof,cabin,correct,
+6135,6219,attach,interior,cabin,correct,
+6219,6261,detach,cabin,roof,mistake,shouldn't have happened
+6469,7090,attach,roof,cabin,correct,
+7090,7353,attach,interior,chassis,correct,
+7588,7658,attach,body,chassis,correct,

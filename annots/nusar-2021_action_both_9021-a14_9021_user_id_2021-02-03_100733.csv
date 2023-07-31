@@ -1,0 +1,23 @@
+9836,10662,attach,interior,chassis,correct,
+10662,11851,attach,base,chassis,mistake,wrong order
+11851,12824,attach,cabin,interior,mistake,previous one is a mistake
+13094,13305,detach,cabin,interior,correction,
+13480,14414,attach,cabin,interior,mistake,previous one is a mistake
+14414,14984,detach,cabin,interior,correction,
+14984,15401,detach,base,chassis,correction,
+15401,16265,attach,cabin,interior,correct,
+17385,17989,detach,cabin,interior,mistake,shouldn't have happened
+18746,18991,attach,base,chassis,mistake,wrong order
+19519,19572,detach,base,chassis,correction,
+19572,22324,attach,wheel,chassis,correct,
+22461,22909,attach,bumper,cabin,correct,
+23745,23774,detach,bumper,cabin,mistake,shouldn't have happened
+23774,24366,attach,cabin,interior,correct,
+24366,25037,attach,bumper,cabin,correct,
+25037,25517,attach,base,chassis,correct,
+28320,29266,attach,transport cabin,base,mistake,wrong order
+29266,29560,detach,transport cabin,base,correction,
+29560,29800,attach,door,base,correct,
+29800,31182,attach,transport cabin,base,correct,
+31182,32347,attach,rear roof,transport cabin,correct,
+32347,33303,attach,roof,cabin,correct,

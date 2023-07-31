@@ -1,0 +1,11 @@
+4825,6567,attach,track,chassis,correct,
+6567,6859,attach,arm,track,correct,
+6859,6949,detach,arm,track,mistake,shouldn't have happened
+7344,8088,attach,arm,track,correct,
+8088,8398,attach,roof,body,mistake,wrong position
+8398,8405,detach,roof,body,correction,
+8405,8463,attach,body,chassis,correct,
+9345,9432,detach,body,chassis,mistake,shouldn't have happened
+9692,9780,attach,body,chassis,correct,
+10090,10219,attach,roof,cabin,correct,
+10219,10738,attach,interior,chassis,correct,

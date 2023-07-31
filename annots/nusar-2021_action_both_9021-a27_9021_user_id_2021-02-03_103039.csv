@@ -1,0 +1,22 @@
+19080,20035,attach,dashboard,interior,mistake,wrong position
+20035,20325,detach,dashboard,interior,correction,
+20325,20902,attach,dashboard,interior,correct,
+21389,22462,attach,interior,chassis,correct,
+22520,22988,attach,back seat,chassis,correct,
+22988,23312,attach,body,chassis,correct,
+23312,23411,detach,body,chassis,mistake,shouldn't have happened
+23411,23502,detach,back seat,chassis,mistake,shouldn't have happened
+23502,23554,detach,interior,chassis,mistake,shouldn't have happened
+23554,24027,attach,interior,chassis,correct,
+24027,24116,attach,back seat,chassis,correct,
+24116,24252,attach,body,chassis,correct,
+24252,25061,attach,door,body,correct,
+25061,25099,detach,door,body,mistake,shouldn't have happened
+25104,25154,detach,body,chassis,mistake,shouldn't have happened
+25154,25261,attach,door,chassis,mistake,wrong position
+25261,25273,detach,door,chassis,correction,
+25273,25382,attach,body,chassis,correct,
+25382,26640,attach,door,body,correct,
+26640,27214,attach,roof,body,correct,
+29105,31649,attach,wheel,chassis,correct,
+32759,33277,attach,nut,chassis,correct,

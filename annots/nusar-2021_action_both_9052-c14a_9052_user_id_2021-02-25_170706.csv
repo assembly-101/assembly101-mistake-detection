@@ -1,0 +1,12 @@
+4393,5429,attach,wheel,chassis,correct
+5731,6116,attach,bumper,chassis,correct
+6116,6209,attach,step,chassis,correct
+6209,6384,attach,rear body,chassis,correct
+6384,6504,attach,interior,rear body,correct
+6504,6630,attach,cabin,interior,correct
+6630,6760,attach,roof,cabin,correct
+7212,7591,attach,base,chassis,correct
+7591,7727,attach,body,base,correct
+7727,8950,attach,arm,boom,correct
+8950,10431,attach,bucket,arm,correct
+10431,10952,attach,boom,body,correct

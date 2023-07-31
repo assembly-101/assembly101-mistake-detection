@@ -1,0 +1,17 @@
+3756,3982,attach,mixer stand,mixer stand,correct,
+3982,5069,attach,mixer,mixer stand,correct,
+5069,5657,attach,nut,mixer stand,correct,
+5657,6144,attach,interior,chassis,correct,
+6679,6853,attach,mixer stand,interior,correct,
+7324,7921,attach,bumper,chassis,mistake,wrong position
+7921,8302,attach,rear bumper,chassis,correct,
+8302,8533,attach,cabin,interior,mistake,previous one is a mistake
+8533,8591,detach,cabin,interior,correction,
+8696,8724,detach,mixer stand,interior,correction,
+8724,8894,attach,cabin,interior,mistake,previous one is a mistake
+8894,8930,detach,cabin,interior,correction,
+9001,9233,detach,bumper,chassis,mistake,shouldn't have happened
+9233,9284,attach,cabin,interior,correct,
+9284,9684,attach,bumper,cabin,correct,
+9684,9744,attach,mixer stand,interior,correct,
+9909,11670,attach,wheel,chassis,correct,

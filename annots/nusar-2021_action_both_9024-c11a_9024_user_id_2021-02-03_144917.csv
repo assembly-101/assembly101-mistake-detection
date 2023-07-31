@@ -1,0 +1,8 @@
+3199,4096,attach,interior,chassis,correct,
+4096,4890,attach,bumper,body,mistake,wrong order
+4890,5128,detach,bumper,body,correction,
+5128,6793,attach,wheel,chassis,correct,
+6876,6953,attach,bumper,body,mistake,wrong order
+6953,7073,detach,bumper,body,correction,
+7073,7412,attach,nut,body,correct,
+7412,7847,attach,bumper,nut,correct,

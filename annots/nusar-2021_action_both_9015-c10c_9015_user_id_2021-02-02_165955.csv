@@ -1,0 +1,40 @@
+5311,7673,attach,water tank,chassis,mistake,wrong position
+7673,8391,attach,rear roof,water tank,correct,
+8570,8924,attach,interior,chassis,correct,
+8924,9025,detach,interior,chassis,mistake,shouldn't have happened
+9248,9556,attach,interior,chassis,correct,
+9556,9578,detach,interior,chassis,mistake,shouldn't have happened
+9578,9650,detach,water tank,chassis,correction,
+9650,11063,attach,interior,chassis,correct,
+11121,13664,attach,water tank,chassis,mistake,wrong order
+13664,13699,detach,water tank,chassis,correction,
+13699,14101,detach,interior,chassis,mistake,shouldn't have happened
+14101,14463,attach,water tank,chassis,mistake,wrong order
+14463,14529,detach,water tank,chassis,correction,
+14849,15042,attach,interior,chassis,correct,
+15042,15068,detach,interior,chassis,mistake,shouldn't have happened
+15068,17159,attach,water tank,chassis,mistake,wrong order
+17159,17634,detach,rear roof,cabin,mistake,shouldn't have happened
+17634,17805,attach,water tank,chassis,mistake,wrong order
+17805,17832,detach,water tank,chassis,correction,
+17832,17930,detach,water tank,water tank,mistake,shouldn't have happened
+17930,18250,attach,water tank,chassis,mistake,wrong order
+18250,18281,detach,water tank,chassis,correction,
+18281,18820,attach,interior,chassis,correct,
+18820,19311,attach,water tank,chassis,mistake,wrong order
+19311,19455,attach,water tank,water tank,correct,
+19455,20392,attach,rear roof,water tank,correct,
+20392,20532,attach,cabin,interior,mistake,previous one is a mistake
+20532,20557,detach,cabin,interior,correction,
+20557,20598,detach,water tank,chassis,correction,
+20598,20807,attach,cabin,interior,correct,
+20807,20978,attach,roof,cabin,correct,
+20978,21138,detach,roof,cabin,mistake,shouldn't have happened
+21138,21821,attach,light,roof,correct,
+21821,22733,attach,roof,cabin,correct,
+22733,23041,attach,water tank,chassis,correct,
+23041,23743,attach,bumper,cabin,correct,
+23743,24756,attach,wheel,chassis,correct,
+24756,24873,detach,water tank,chassis,mistake,shouldn't have happened
+24873,25667,attach,wheel,chassis,correct,
+25667,27519,attach,water tank,chassis,correct,

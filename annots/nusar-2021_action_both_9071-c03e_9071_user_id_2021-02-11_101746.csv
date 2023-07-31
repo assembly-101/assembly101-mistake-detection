@@ -1,0 +1,8 @@
+6674,6765,attach,arm connector,chassis,mistake,wrong order
+6765,6869,detach,arm connector,chassis,correction,
+6869,7071,attach,boom,arm connector,correct,
+7071,7530,attach,arm connector,chassis,correct,
+7530,9431,attach,wheel,chassis,correct,
+9718,9936,attach,cabin window,cabin,correct,
+9936,10418,attach,cabin window,chassis,correct,
+10418,10920,attach,body,chassis,correct,

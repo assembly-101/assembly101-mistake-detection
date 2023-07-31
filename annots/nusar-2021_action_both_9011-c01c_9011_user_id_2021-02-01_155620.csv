@@ -1,0 +1,13 @@
+4380,5284,attach,wheel,chassis,correct,
+5284,5635,attach,interior,chassis,correct,
+5635,5841,attach,cabin,interior,correct,
+5841,6392,attach,bumper,cabin,correct,
+6392,6602,attach,base,chassis,correct,
+6970,7254,attach,turntable base,base,mistake,wrong position
+7254,7289,detach,turntable base,base,correction,
+7289,7547,attach,cabin window,turntable base,correct,
+7547,7836,attach,cabin window,base,correct,
+7836,8459,attach,hook,arm,correct,
+8459,8708,attach,arm,boom,correct,
+8708,9196,attach,boom,turntable base,correct,
+9196,9617,attach,cabin,roof,correct,

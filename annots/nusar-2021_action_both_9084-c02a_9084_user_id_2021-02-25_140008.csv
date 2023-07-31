@@ -1,0 +1,14 @@
+3888,4190,attach,interior,chassis,correct,
+4190,4297,attach,cabin,interior,correct,
+4297,4622,attach,body,chassis,correct,
+4622,4728,detach,interior,chassis,mistake,shouldn't have happened
+4728,5618,attach,interior,chassis,correct,
+5618,5742,attach,arm connector,chassis,correct,
+5742,5921,attach,body,chassis,correct,
+6441,6704,detach,arm connector,chassis,mistake,shouldn't have happened
+6704,7214,attach,boom,arm connector,correct,
+7214,8266,attach,wheel,chassis,correct,
+8266,8708,attach,bumper,chassis,correct,
+8708,9002,attach,roof,cabin,correct,
+9002,9588,attach,chassis,arm connector,correct,
+9588,9888,attach,bucket,arm,correct,

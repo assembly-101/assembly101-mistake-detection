@@ -1,0 +1,8 @@
+2916,3205,attach,chassis,chassis,correct,
+3494,4564,attach,wheel,chassis,correct,
+4564,4912,attach,roller,arm,correct,
+4912,5245,attach,arm connector,arm,correct,
+5245,5549,attach,arm connector,chassis,correct,
+5549,5936,attach,body,chassis,correct,
+5936,6090,attach,cabin window,cabin,correct,
+6090,6370,attach,cabin window,chassis,correct,

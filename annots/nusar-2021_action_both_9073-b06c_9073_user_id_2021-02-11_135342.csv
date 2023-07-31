@@ -1,0 +1,10 @@
+5332,6232,attach,interior,chassis,correct,
+6232,9938,attach,wheel,chassis,correct,
+10220,11184,attach,cabin,interior,correct,
+11311,11345,attach,turntable base,interior,correct,
+11355,11394,detach,turntable base,interior,mistake,shouldn't have happened
+11497,11704,attach,bucket,turntable top,mistake,wrong order
+11704,11763,detach,bucket,turntable top,correction,
+11799,13081,attach,boom,turntable top,correct,
+13081,13542,attach,bucket,boom,correct,
+13542,14207,attach,turntable base,interior,correct,

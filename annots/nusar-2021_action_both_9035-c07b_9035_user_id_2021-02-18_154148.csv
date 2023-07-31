@@ -1,0 +1,13 @@
+5541,6518,attach,wheel,chassis,correct,
+6518,6651,attach,interior,chassis,mistake,wrong position
+6651,6824,attach,cabin,interior,correct,
+6886,6996,detach,interior,chassis,correction,
+6996,7036,detach,cabin,chassis,mistake,shouldn't have happened
+7036,7345,attach,interior,chassis,correct,
+7345,7587,attach,cabin,interior,correct,
+7821,8028,attach,base,chassis,correct,
+8667,8842,attach,roof,cabin,correct,
+8842,9236,attach,bumper,cabin,correct,
+9236,10926,attach,body,base,correct,
+10926,11741,attach,ladder,turntable top,correct,
+11741,11957,attach,basket,ladder,correct,

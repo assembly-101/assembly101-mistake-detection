@@ -1,0 +1,7 @@
+7088,7651,attach,interior,chassis,correct,
+7651,8016,attach,cabin,interior,correct,
+8016,9071,attach,body,chassis,correct,
+9597,9652,detach,clamp,arm,mistake,shouldn't have happened
+9652,10417,attach,arm,boom,correct,
+10417,11094,attach,clamp,arm,correct,
+11296,12765,attach,wheel,chassis,correct,

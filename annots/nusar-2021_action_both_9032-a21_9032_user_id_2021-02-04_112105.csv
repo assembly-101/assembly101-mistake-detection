@@ -1,0 +1,6 @@
+6209,6448,attach,chassis,chassis,correct,
+6448,7831,attach,base,dump bed,correct,
+7831,7965,attach,cabin,chassis,correct,
+7965,8189,attach,base,chassis,correct,
+8646,10353,attach,wheel,chassis,correct,
+10353,11030,attach,bumper,cabin,correct,

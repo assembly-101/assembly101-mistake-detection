@@ -1,0 +1,41 @@
+6236,6634,attach,body,chassis,correct,
+6634,6685,detach,body,chassis,mistake,shouldn't have happened
+6820,7044,attach,body,chassis,correct,
+7044,7091,detach,body,chassis,mistake,shouldn't have happened
+7586,7733,attach,body,chassis,correct,
+7733,7803,detach,body,chassis,mistake,shouldn't have happened
+7848,8237,attach,engine cover,chassis,mistake,wrong order
+8237,8270,detach,engine cover,chassis,correction,
+8270,8649,attach,body,chassis,mistake,wrong position
+8649,9102,attach,spoiler,body,correct,
+9102,9240,detach,body,chassis,correction,
+9240,9685,attach,body,chassis,correct,
+9685,9834,detach,body,chassis,mistake,shouldn't have happened
+9957,10229,attach,engine cover,chassis,mistake,wrong order
+10229,10266,detach,engine cover,chassis,correction,
+10266,11351,attach,rocker panel,chassis,mistake,wrong order
+11351,11799,attach,engine cover,chassis,mistake,wrong order
+11799,11843,detach,engine cover,chassis,correction,
+12775,13598,attach,engine cover,chassis,mistake,wrong order
+13598,13628,detach,engine cover,chassis,correction,
+13628,13985,attach,body,chassis,mistake,previous is a mistake
+13985,14020,detach,body,chassis,correction,
+14173,14366,attach,body,chassis,mistake,previous is a mistake
+14366,14403,detach,body,chassis,correction,
+14403,14536,detach,rocker panel,chassis,correction,
+14536,14797,attach,body,chassis,correct,
+14797,15315,attach,spoiler,body,correct,
+15315,16629,attach,bumper,body,correct,
+16629,16968,attach,engine cover,body,correct,
+17263,18275,attach,roof,body,correct,
+18275,20144,attach,wheel,chassis,correct,
+20144,21632,attach,rocker panel,chassis,correct,
+21632,21755,detach,rocker panel,chassis,mistake,shouldn't have happened
+21755,22915,detach,wheel,chassis,mistake,shouldn't have happened
+23777,24345,detach,bumper,body,mistake,shouldn't have happened
+24971,25193,detach,engine cover,body,mistake,shouldn't have happened
+26046,26577,attach,bumper,body,correct,
+26577,26973,attach,spoiler,body,correct,
+26973,27336,attach,engine cover,body,correct,
+27336,29226,attach,wheel,chassis,correct,
+29226,30067,attach,rocker panel,body,correct,

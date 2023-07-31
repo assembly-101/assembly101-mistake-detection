@@ -1,0 +1,9 @@
+3347,3531,attach,track,chassis,correct,
+3531,3565,detach,track,chassis,mistake,shouldn't have happened
+3565,3753,attach,interior,chassis,correct,
+3753,3879,attach,body,chassis,correct,
+4341,4405,attach,cabin,interior,correct,
+4405,4797,attach,roof,cabin,correct,
+4797,5366,attach,engine cover,body,correct,
+5366,6592,attach,track,chassis,correct,
+6592,6827,attach,boom,interior,correct,

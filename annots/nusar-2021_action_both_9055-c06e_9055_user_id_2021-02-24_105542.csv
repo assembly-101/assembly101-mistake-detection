@@ -1,0 +1,13 @@
+4080,4674,attach,boom,turntable base,mistake,wrong order
+4674,5682,attach,base,turntable base,mistake,wrong order
+5682,5706,detach,base,turntable base,correction,
+5706,6192,detach,boom,turntable base,correction,
+6192,6822,attach,turntable base,base,correct,
+6822,7314,attach,boom,turntable base,correct,
+7314,7534,attach,light,cabin,correct,
+7534,7649,attach,sound module,cabin,correct,
+7649,8327,attach,roof,cabin,correct,
+8327,8479,attach,interior,chassis,correct,
+8479,9003,attach,cabin,interior,correct,
+9003,9190,attach,base,chassis,correct,
+9558,10568,attach,wheel,chassis,correct,

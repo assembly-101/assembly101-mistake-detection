@@ -1,0 +1,10 @@
+5191,6924,attach,wheel,chassis,correct,
+7100,7834,attach,engine,chassis,correct,
+7834,8292,attach,body,chassis,correct,
+8292,8810,attach,engine cover,body,correct,
+8923,10048,attach,rocker panel,chassis,mistake,wrong position
+10251,10790,detach,rocker panel,chassis,correction,
+10790,11350,attach,rocker panel,body,correct,
+11525,12213,attach,bumper,body,correct,
+12213,12506,attach,roof,body,correct,
+12506,12924,attach,spoiler,body,correct,

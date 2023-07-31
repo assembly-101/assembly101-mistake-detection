@@ -1,0 +1,15 @@
+3661,4630,attach,push frame,chassis,correct,
+4630,4872,attach,roller,push frame,correct,
+4872,5063,attach,chassis,chassis,correct,
+5482,5796,attach,body,chassis,correct,
+5796,5974,attach,cabin,chassis,mistake,wrong order
+5974,6008,detach,cabin,chassis,correction,
+6008,6399,attach,step,chassis,correct,
+6399,6510,attach,cabin,chassis,correct,
+6510,7067,attach,strap,cabin,correct,
+7067,7188,detach,strap,cabin,mistake,shouldn't have happened
+7188,7262,detach,cabin,chassis,mistake,shouldn't have happened
+7262,7429,attach,cabin,chassis,correct,
+7429,7936,attach,strap,cabin,correct,
+7936,8080,attach,light,cabin,correct,
+8080,9098,attach,wheel,chassis,correct,

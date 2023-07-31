@@ -1,0 +1,52 @@
+8591,9654,attach,base,chassis,mistake,wrong order
+9654,9660,detach,base,chassis,correction,
+9660,12121,attach,wheel,chassis,correct,
+12121,12941,attach,base,chassis,mistake,wrong order
+12941,13281,detach,base,chassis,correction,
+13354,14206,attach,cabin,chassis,mistake,wrong order
+14206,14352,detach,cabin,chassis,correction,
+14352,15174,attach,base,chassis,mistake,wrong order
+15174,15227,detach,base,chassis,correction,
+15327,16746,attach,dump bed,base,mistake,wrong position
+16746,17034,detach,base,dump bed,correction,
+17034,18143,attach,interior,chassis,correct,
+18143,18563,attach,dump bed,chassis,mistake,wrong order
+18563,18606,detach,dump bed,chassis,correction,
+18606,19501,attach,cabin,interior,correct,
+19501,20197,attach,bumper,cabin,correct,
+20197,22882,attach,roof,cabin,correct,
+22882,23909,attach,base,chassis,correct,
+24489,24620,detach,base,chassis,mistake,shouldn't have happened
+25069,25441,attach,base,dump bed,mistake,wrong position
+25441,25678,attach,base,chassis,correct,
+25678,25751,detach,dump bed,base,correction,
+25751,25800,detach,base,chassis,mistake,shouldn't have happened
+25800,25967,attach,base,chassis,correct,
+26177,26301,detach,base,chassis,mistake,shouldn't have happened
+26301,26832,attach,base,chassis,correct,
+28462,29024,attach,dump bed,chassis,mistake,wrong order
+29024,29040,detach,dump bed,chassis,correction,
+29772,30092,attach,dump bed,chassis,mistake,wrong order
+30092,30120,detach,dump bed,chassis,correction,
+30719,30822,attach,dump bed,chassis,mistake,wrong order
+30822,30840,detach,dump bed,chassis,correction,
+30840,31934,attach,base,dump bed,mistake,wrong position
+31934,35978,attach,cylinder,base,correct,
+35978,36000,attach,cylinder,dump bed,correct,
+36260,36566,attach,base,chassis,correct,
+36932,37232,detach,base,chassis,mistake,shouldn't have happened
+38061,38458,detach,bumper,cabin,mistake,shouldn't have happened
+38458,38612,detach,cabin,interior,mistake,shouldn't have happened
+38918,39336,detach,interior,chassis,mistake,shouldn't have happened
+39336,41898,attach,base,chassis,mistake,wrong order
+41898,41910,detach,base,chassis,correction,
+41910,42548,detach,base,dump bed,correction,
+42548,43110,attach,base,chassis,mistake,wrong order
+43110,43140,detach,base,chassis,correction,
+44106,44935,attach,interior,chassis,correct,
+45965,46277,attach,cabin,interior,correct,
+46277,46580,attach,base,chassis,correct,
+48226,48926,detach,cylinder,base,mistake,shouldn't have happened
+48926,50405,attach,cylinder,dump bed,correct,
+50405,53353,attach,cylinder,base,correct,
+53353,54203,attach,bumper,cabin,correct,

@@ -1,0 +1,7 @@
+6060,6557,attach,dashboard,interior,correct,
+6557,6824,attach,interior,chassis,correct,
+6824,7095,attach,back seat,chassis,correct,
+7095,7297,attach,body,interior,correct,
+7297,8097,attach,door,body,correct,
+8097,8502,attach,roof,body,correct,
+9727,11987,attach,wheel,chassis,correct,

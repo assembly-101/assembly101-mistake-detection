@@ -1,0 +1,10 @@
+8600,8830,attach,bumper,interior,mistake,wrong order
+8830,8859,detach,bumper,interior,correction,
+8859,9477,attach,interior,cabin,correct,
+9477,10014,attach,bumper,cabin,correct,
+10014,10381,attach,interior,chassis,correct,
+10759,11519,attach,roof,cabin,correct,
+12084,12397,attach,base,chassis,correct,
+12397,14561,attach,body,base,correct,
+16097,17759,attach,wheel,chassis,correct,
+17759,19060,attach,ladder,turntable top,correct,

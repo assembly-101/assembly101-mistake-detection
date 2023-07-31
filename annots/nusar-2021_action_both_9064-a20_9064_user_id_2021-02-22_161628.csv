@@ -1,0 +1,6 @@
+3316,3447,attach,interior,chassis,correct,
+3447,3850,attach,cabin,interior,correct,
+3850,5181,attach,wheel,chassis,correct,
+5181,5551,attach,water tank,chassis,correct,
+5551,7092,attach,roof,water tank,correct,
+7092,7234,position,figurine,cabin,correct,

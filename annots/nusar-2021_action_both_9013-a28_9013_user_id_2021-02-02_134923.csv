@@ -1,0 +1,10 @@
+2748,2778,attach,interior,chassis,correct,
+3054,4120,attach,wheel,chassis,correct,
+4120,4290,attach,body,interior,correct,
+4290,4968,attach,wheel,chassis,correct,
+5150,5214,detach,body,interior,mistake,shouldn't have happened
+5214,5282,attach,body,interior,mistake,wrong position
+5282,5455,detach,body,interior,correction,
+5455,5623,attach,body,interior,correct,
+5950,6415,attach,roof,body,correct,
+6415,6710,attach,engine cover,body,correct,

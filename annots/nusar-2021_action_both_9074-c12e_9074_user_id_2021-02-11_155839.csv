@@ -1,0 +1,25 @@
+2369,3651,attach,wheel,chassis,correct,
+3651,4015,attach,interior,chassis,correct,
+4015,4720,attach,grill,interior,mistake,wrong order
+4720,5021,attach,base,chassis,correct,
+5021,5036,detach,base,chassis,mistake,shouldn't have happened
+5036,5236,detach,interior,chassis,mistake,shouldn't have happened
+5236,5634,attach,base,chassis,correct,
+5634,6592,attach,interior,chassis,mistake,shouldn't have happened
+6592,6678,attach,cabin,interior,correct,
+6678,6708,detach,cabin,interior,mistake,shouldn't have happened
+6708,6801,detach,base,chassis,mistake,shouldn't have happened
+6801,6863,attach,cabin,interior,correct,
+6863,6880,detach,cabin,interior,mistake,shouldn't have happened
+6880,7054,detach,interior,chassis,mistake,shouldn't have happened
+7054,7320,detach,grill,interior,correction,
+7320,7433,attach,interior,cabin,correct,
+7433,7943,attach,grill,cabin,correct,
+7943,8217,attach,interior,chassis,correct,
+8217,8330,attach,base,chassis,mistake,shouldn't have happened
+8493,8673,detach,base,chassis,correct,
+8673,8956,attach,roof,cabin,correct,
+8956,9010,detach,light,roof,mistake,shouldn't have happened
+9010,9085,attach,light,roof,correct,
+9085,9589,attach,base,chassis,correct,
+9589,9946,attach,dump bed,base,correct,

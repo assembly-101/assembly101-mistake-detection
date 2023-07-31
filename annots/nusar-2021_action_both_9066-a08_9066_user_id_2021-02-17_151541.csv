@@ -1,0 +1,7 @@
+3000,4057,attach,wheel,chassis,correct,
+4142,4443,attach,grill,cabin,correct,
+4443,4704,attach,bumper,cabin,correct,
+4704,5038,attach,cabin,chassis,correct,
+5038,5192,attach,base,chassis,correct,
+5202,5244,detach,base,chassis,mistake,shouldn't have happened
+5603,5672,attach,base,chassis,correct,

@@ -1,0 +1,25 @@
+4876,5246,attach,roof,body,correct,
+5246,5967,attach,body,chassis,mistake,wrong order
+5967,6060,detach,body,chassis,correction,
+6060,6435,attach,interior,body,correct,
+6435,7223,attach,interior,chassis,correct,
+7223,8433,attach,wheel,chassis,correct,
+8656,9327,attach,rear bumper,body,mistake,wrong order
+9327,9399,detach,rear bumper,body,correction,
+9774,10277,attach,rear bumper,body,correct,
+10555,12667,attach,bumper,body,mistake,wrong order
+12667,13178,detach,bumper,body,correction,
+14364,14605,attach,bumper,body,mistake,wrong order
+14605,14665,detach,bumper,body,correction,
+15054,15340,attach,bumper,body,mistake,wrong order
+15808,16089,detach,bumper,body,correction,
+17433,17694,detach,rear bumper,body,mistake,shouldn't have happened
+17694,17933,detach,interior,chassis,mistake,shouldn't have happened
+17933,18497,attach,nut,body,correct,
+18497,18534,detach,nut,body,mistake,shouldn't have happened
+18956,19319,detach,roof,body,mistake,shouldn't have happened
+19319,19781,attach,nut,body,correct,
+19781,20464,attach,bumper,body,correct,
+20464,20784,attach,roof,body,correct,
+20784,22146,attach,body,chassis,correct,
+22146,22476,attach,rear bumper,chassis,correct,

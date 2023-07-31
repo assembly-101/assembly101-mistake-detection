@@ -1,0 +1,6 @@
+5007,5840,attach,chassis,chassis,correct,
+5840,7802,attach,wheel,chassis,correct,
+7802,8660,attach,body,chassis,correct,
+8660,9379,attach,ladder,body,correct,
+9379,9866,attach,cabin,chassis,correct,
+9866,10115,attach,bumper,chassis,correct,

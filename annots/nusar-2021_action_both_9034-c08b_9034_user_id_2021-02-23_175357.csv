@@ -1,0 +1,11 @@
+3727,4729,attach,container,container,mistake,wrong order
+4729,4851,detach,container,container,correction,
+4851,4935,attach,lid,container,correct,
+4935,5939,attach,container,container,correct,
+6123,6613,attach,interior,chassis,correct,
+6613,6735,attach,cabin,interior,correct,
+6735,7188,attach,bumper,cabin,correct,
+7188,7354,attach,container,chassis,correct,
+7811,8163,attach,connector,container,correct,
+8163,9229,attach,wheel,chassis,correct,
+9229,9701,attach,roof,cabin,correct,

@@ -1,0 +1,10 @@
+4684,4951,attach,interior,chassis,correct,
+4951,5021,attach,cabin,interior,correct,
+5422,5523,detach,cabin,interior,mistake,shouldn't have happened
+5523,5628,attach,cabin,interior,correct,
+5628,5710,attach,base,chassis,correct,
+6185,7096,attach,wheel,chassis,correct,
+7096,7823,attach,bumper,cabin,correct,
+7823,8171,attach,roof,cabin,correct,
+8171,8444,attach,ladder,turntable top,correct,
+8444,9038,attach,basket,ladder,correct,

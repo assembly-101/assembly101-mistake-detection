@@ -1,0 +1,9 @@
+6250,6431,attach,body,chassis,correct,
+6431,6461,detach,body,chassis,mistake,shouldn't have happened
+6461,6827,attach,cabin,chassis,correct,
+6966,7218,attach,body,chassis,correct,
+7578,7884,attach,figurine,cabin,correct,
+7884,9101,attach,track,chassis,correct,
+9101,9655,attach,blade,track,correct,
+9655,10878,attach,track,chassis,correct,
+10878,11114,attach,blade,track,correct,

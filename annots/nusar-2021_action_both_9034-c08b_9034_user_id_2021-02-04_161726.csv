@@ -1,0 +1,8 @@
+4510,6024,attach,wheel,chassis,correct,
+6426,6628,attach,bumper,cabin,mistake,wrong order
+6638,7073,attach,interior,chassis,correct,
+7132,7159,detach,bumper,cabin,correction,
+7159,7228,attach,cabin,interior,correct,
+7228,7496,attach,bumper,cabin,correct,
+7496,7656,attach,container,chassis,correct,
+8115,8598,attach,roof,cabin,correct,

@@ -1,0 +1,12 @@
+3384,3556,attach,light,roof,correct,
+3556,4023,attach,dashboard,interior,correct,
+4023,4254,attach,interior,chassis,correct,
+4254,4349,attach,back seat,chassis,correct,
+4702,4985,attach,nut,body,correct,
+4985,5140,attach,body,chassis,correct,
+5140,5283,detach,nut,body,mistake,shouln't have happened
+5283,5393,attach,nut,chassis,correct,
+5802,6102,attach,wheel,chassis,correct,
+6102,6642,attach,door,body,correct,
+6642,6815,attach,roof,body,correct,
+6815,7717,attach,wheel,chassis,correct,

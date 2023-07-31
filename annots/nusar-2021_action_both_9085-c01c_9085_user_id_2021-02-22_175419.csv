@@ -1,0 +1,13 @@
+5314,5445,attach,base,chassis,mistake,wrong order
+5445,5487,detach,base,chassis,correction,
+5495,5745,attach,interior,chassis,correct,
+5745,5874,attach,cabin,interior,correct,
+5874,6010,attach,base,chassis,correct,
+7106,7755,attach,bumper,cabin,correct,
+7755,8055,attach,cabin window,turntable base,correct,
+8055,8559,attach,turntable base,chassis,correct,
+8559,9292,attach,roof,cabin,correct,
+9292,10264,attach,hook,arm,correct,
+10264,11371,attach,arm,boom,correct,
+11371,11777,attach,boom,turntable base,correct,
+11777,12630,attach,wheel,chassis,correct,

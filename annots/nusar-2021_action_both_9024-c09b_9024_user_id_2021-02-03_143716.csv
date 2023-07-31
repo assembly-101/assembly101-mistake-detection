@@ -1,0 +1,21 @@
+5464,7242,attach,wheel,chassis,correct,
+7397,7762,attach,base,chassis,mistake,wrong order
+7762,8387,attach,interior,cabin,correct,
+8387,8521,attach,interior,chassis,mistake,previous one is a mistake
+8521,8710,detach,cabin,chassis,correction,
+8710,9105,attach,water tank,water tank,correct,
+9105,9842,attach,rear roof,water tank,correct,
+9842,10074,attach,water tank,base,correct,
+10074,10134,detach,cabin,interior,mistake,shouldn't have happened
+10134,10263,attach,cabin,interior,correct,
+10263,10333,detach,chassis,base,correction,
+10333,10635,attach,chassis,base,mistake,wrong order
+10643,10687,detach,cabin,interior,mistake,shouldn't have happened
+10710,10747,attach,interior,cabin,correct,
+10747,11388,attach,interior,chassis,mistake,previous one is a mistake
+11388,11435,detach,interior,chassis,correction,
+11435,11564,detach,chassis,base,correction,
+11564,11701,attach,interior,chassis,correct,
+11701,11984,attach,chassis,base,correct,
+13123,13735,attach,bumper,cabin,correct,
+14675,15355,attach,roof,cabin,correct,

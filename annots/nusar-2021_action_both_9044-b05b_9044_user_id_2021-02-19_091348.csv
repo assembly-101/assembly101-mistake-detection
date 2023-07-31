@@ -1,0 +1,11 @@
+8161,8746,attach,cabin,interior,correct,
+8746,10064,attach,bumper,cabin,correct,
+10345,10869,attach,rear bumper,interior,correct,
+10869,13480,attach,wheel,chassis,correct,
+13480,13916,attach,turntable base,interior,correct,
+13916,13992,detach,turntable base,interior,mistake,shouldn't have happened
+14619,16382,attach,turntable top,turntable base,correct,
+18515,18649,detach,turntable top,turntable base,mistake,shouldn't have happened
+18791,20105,detach,turntable base,turntable top,mistake,shouldn't have happened
+20237,20847,attach,turntable base,interior,correct,
+20847,21665,attach,turntable top,turntable base,correct,

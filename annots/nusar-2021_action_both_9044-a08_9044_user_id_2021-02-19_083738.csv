@@ -1,0 +1,11 @@
+3749,4743,attach,crane arm,chassis,mistake,wrong position
+6111,6302,attach,cabin,chassis,mistake,previous one is a mistake
+6302,6833,detach,chassis,chassis,correction,
+6833,6867,detach,crane arm,chassis,correction,
+7260,7503,attach,crane arm,chassis,mistake,wrong position
+7503,7639,detach,crane arm,chassis,correction,
+7639,8026,attach,cabin,chassis,correct,
+8648,8911,attach,crane arm,chassis,correct,
+9517,10942,attach,wheel,chassis,correct,
+10942,11225,attach,grill,cabin,correct,
+11225,11621,attach,bumper,grill,correct,

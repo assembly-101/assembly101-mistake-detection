@@ -1,0 +1,9 @@
+9642,10785,attach,roof,cabin,correct,
+12037,12209,attach,interior,chassis,correct,
+12388,12944,attach,body,chassis,correct,
+12944,14819,attach,track,chassis,correct,
+14819,15293,attach,cabin,chassis,correct,
+16153,16499,attach,engine cover,body,correct,
+16499,17523,attach,boom,interior,correct,
+17976,18012,detach,boom,interior,mistake,shouldn't have happened
+18012,18237,attach,boom,interior,correction,

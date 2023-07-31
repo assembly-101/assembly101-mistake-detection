@@ -1,0 +1,12 @@
+7470,7707,attach,interior,cabin,correct,
+7707,8347,attach,bumper,cabin,correct,
+8347,8903,attach,roof,cabin,correct,
+8903,9041,attach,interior,chassis,correct,
+9838,10350,attach,base,chassis,correct,
+11041,11344,attach,door,transport cabin,correct,
+11344,11606,attach,transport cabin,base,correct,
+11606,11663,detach,door,transport cabin,mistake,shouldn't have happened
+11663,11723,detach,transport cabin,base,correct,
+11723,12049,attach,door,transport cabin,correct,
+12049,14225,attach,transport cabin,base,correct,
+14225,14987,attach,rear roof,transport cabin,correct,

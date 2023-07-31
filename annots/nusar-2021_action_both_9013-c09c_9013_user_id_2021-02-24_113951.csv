@@ -1,0 +1,31 @@
+5687,5834,attach,sound module,chassis,correct,
+5834,7161,attach,wheel,chassis,correct,
+7161,7822,attach,base,chassis,mistake,wrong order
+7822,8023,attach,interior,cabin,correct,
+8023,8091,detach,base,chassis,correction,
+8091,8163,attach,interior,chassis,correct,
+8163,8333,attach,base,chassis,correct,
+8881,9226,attach,bumper,cabin,correct,
+9578,9951,attach,roof,cabin,correct,
+9951,10465,attach,transport cabin,base,mistake,wrong position
+10832,10945,attach,rear roof,transport cabin,mistake,wrong order
+11065,11109,detach,transport cabin,base,correction,
+11109,11220,detach,rear roof,transport cabin,correction,
+11220,11460,attach,door,transport cabin,correct,
+11460,11542,attach,rear roof,transport cabin,correct,
+11542,11590,attach,transport cabin,base,mistake,wrong position
+11590,11610,detach,transport cabin,base,correction,
+11610,11655,detach,door,transport cabin,mistake,shouldn't have happened
+11655,11760,attach,transport cabin,base,correct,
+11900,11940,detach,rear roof,transport cabin,mistake,shouldn't have happened
+11940,11967,attach,door,transport cabin,correct,
+11967,12015,attach,rear roof,transport cabin,correct,
+12332,12440,detach,transport cabin,base,mistake,shouldn't have happened
+12440,12643,attach,transport cabin,base,correct,
+12850,13213,detach,transport cabin,base,mistake,shouldn't have happened
+13213,13501,detach,rear roof,transport cabin,mistake,shouldn't have happened
+13501,13544,attach,transport cabin,base,correct,
+13544,13581,detach,door,transport cabin,mistake,shouldn't have happened
+13581,13598,detach,rear roof,transport cabin,mistake,shouldn't have happened
+13598,13825,attach,door,transport cabin,correct,
+14290,15044,attach,rear roof,transport cabin,correct,

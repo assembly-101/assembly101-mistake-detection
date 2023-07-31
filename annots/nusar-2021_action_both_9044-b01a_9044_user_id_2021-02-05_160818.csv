@@ -1,0 +1,20 @@
+5187,5861,attach,interior,chassis,correct,
+7211,7659,attach,cabin,interior,correct,
+7659,8240,attach,roof,cabin,correct,
+8240,8558,attach,arm connector,interior,correct,
+8558,10247,attach,arm,arm connector,mistake,wrong position
+10247,10547,detach,arm,arm connector,correction,
+10547,11148,detach,arm connector,interior,mistake,shouldn't have happened
+11246,11304,attach,nut,interior,mistake,wrong position
+11774,11893,detach,nut,interior,correction,
+12210,12750,attach,nut,interior,mistake,wrong position
+12750,12780,detach,nut,interior,correction,
+12780,13186,attach,arm connector,nut,correct,
+13186,13251,detach,arm connector,nut,mistake,shouldn't have happened
+13744,16321,attach,arm connector,interior,correct,
+16321,16386,detach,arm connector,nut,mistake,shouldn't have happened
+16622,17516,attach,arm,nut,correct,
+21169,21981,attach,arm connector,nut,correct,
+27167,28727,attach,arm connector,interior,correct,
+29495,30253,attach,bucket,arm,correct,
+30253,31550,attach,wheel,chassis,correct,

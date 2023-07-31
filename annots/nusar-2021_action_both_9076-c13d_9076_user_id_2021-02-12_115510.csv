@@ -1,0 +1,17 @@
+13949,14445,attach,step,chassis,correct,
+14445,14841,attach,wheel,chassis,correct,
+18156,18611,attach,cabin,chassis,correct,
+18761,19191,attach,body,chassis,mistake,wrong order
+19191,19260,attach,cabin,chassis,mistake,previous one is a mistake
+19260,19281,detach,cabin,chassis,correction,
+19281,19716,detach,body,chassis,correction,
+19716,19889,attach,cabin,chassis,correct,
+19889,21043,attach,body,chassis,correct,
+21043,22027,attach,strap,cabin,correct,
+22027,22486,detach,strap,cabin,mistake,shouldn't have happened
+22486,22584,detach,cabin,chassis,mistake,shouldn't have happened
+22584,22746,detach,step,chassis,mistake,shouldn't have happened
+22746,22894,attach,step,chassis,correct,
+22894,23094,attach,cabin,chassis,correct,
+24145,26588,attach,bucket,chassis,correct,
+26992,27256,attach,light,cabin,correct,

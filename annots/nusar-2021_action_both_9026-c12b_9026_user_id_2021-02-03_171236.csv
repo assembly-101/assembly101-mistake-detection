@@ -1,0 +1,10 @@
+6852,8728,attach,wheel,chassis,correct,
+8728,9488,attach,interior,chassis,correct,
+9488,9619,attach,cabin,interior,correct,
+10271,11100,attach,base,chassis,correct,
+11100,11780,attach,grill,cabin,correct,
+11780,12284,attach,roof,cabin,correct,
+12284,13524,attach,water tank,base,correct,
+13524,14451,attach,ladder,water tank,correct,
+14783,14818,detach,ladder,water tank,mistake,shouldn't have happened
+14818,14861,attach,ladder,water tank,correct,

@@ -1,0 +1,19 @@
+8220,9586,attach,wheel,chassis,correct,
+9586,9900,attach,interior,chassis,correct,
+9900,10196,attach,base,chassis,correct,
+10491,10601,attach,sound module,cabin,correct,
+10601,10847,attach,light,cabin,correct,
+10847,11520,attach,roof,cabin,correct,
+11520,11883,attach,cabin,interior,correct,
+12284,12344,detach,cabin,interior,mistake,shouldn't have happened
+12499,12568,attach,cabin,chassis,correct,
+12568,13345,attach,turntable base,base,correct,
+13345,17840,attach,boom,turntable base,correct,
+17840,17870,detach,cabin,interior,mistake,shouldn't have happened
+17870,17911,detach,base,chassis,mistake,shouldn't have happened
+17911,18028,attach,base,chassis,correct,
+18570,18883,attach,cabin,interior,correct,
+20012,20046,detach,cabin,interior,mistake,shouldn't have happened
+20210,20760,attach,cabin,interior,correct,
+21541,21991,detach,cabin,interior,mistake,shouldn't have happened
+21991,23360,attach,cabin,interior,correct,

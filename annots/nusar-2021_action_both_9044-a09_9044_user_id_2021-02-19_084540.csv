@@ -1,0 +1,7 @@
+5045,5375,attach,interior,chassis,correct,
+5375,5478,attach,cabin,interior,correct,
+5565,5624,detach,cabin,interior,mistake,shouldn't have happened
+5624,7433,attach,wheel,chassis,correct,
+7801,7931,attach,cabin,interior,correct,
+7931,9364,attach,body,chassis,correct,
+10339,11300,attach,boom,arm,correct,

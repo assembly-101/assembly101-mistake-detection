@@ -1,0 +1,19 @@
+5725,7118,attach,bucket,arm,correct,
+7118,7965,detach,bucket,arm,mistake,shouldn't have happened
+7965,8972,attach,bucket,arm,correct,
+8972,9209,attach,arm connector,arm,correct,
+9209,9270,detach,arm connector,arm,mistake,shouldn't have happened
+9270,9294,attach,cabin,interior,correct,
+9294,9451,attach,arm,interior,mistake,wrong order
+9451,9500,detach,cabin,interior,mistake,shouldn't have happened
+9563,9602,detach,arm,interior,correction,
+9602,9971,detach,arm,bucket,mistake,shouldn't have happened
+9971,10607,attach,arm,interior,mistake,wrong order
+10607,10646,detach,arm,interior,correction,
+11820,11846,attach,arm connector,arm,correct,
+11846,11994,attach,arm connector,nut,correct,
+12683,13528,attach,arm,bucket,correct,
+13528,14274,attach,cabin,interior,correct,
+15160,15389,attach,roof,cabin,correct,
+15904,16005,attach,chassis,interior,correct,
+16976,18342,attach,wheel,chassis,correct,

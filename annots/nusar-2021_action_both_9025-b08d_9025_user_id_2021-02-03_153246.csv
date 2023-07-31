@@ -1,0 +1,7 @@
+10260,10954,attach,base,chassis,correct,
+10954,11745,attach,grill,body,correct,
+11745,12109,attach,body,chassis,correct,
+12173,12265,detach,base,chassis,mistake,shouldn't have happened
+12265,12423,attach,base,chassis,correct,
+12423,13023,attach,cabin,body,correct,
+14339,16595,attach,wheel,chassis,correct,

@@ -1,0 +1,12 @@
+3660,4066,attach,roof,cabin,correct,
+4066,4276,attach,bumper,cabin,correct,
+4276,4357,attach,sound module,chassis,correct,
+4357,4695,attach,interior,chassis,correct,
+4695,4701,detach,bumper,cabin,mistake,shouldn't have happened
+4701,4788,attach,cabin,interior,correct,
+4788,5249,attach,bumper,cabin,correct,
+5249,5360,attach,base,chassis,correct,
+6016,6231,attach,door,transport cabin,correct,
+6231,7355,attach,transport cabin,base,correct,
+7355,7831,attach,rear roof,transport cabin,correct,
+7831,8783,attach,wheel,chassis,correct,

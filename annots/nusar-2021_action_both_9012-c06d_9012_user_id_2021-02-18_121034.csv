@@ -1,0 +1,12 @@
+3650,4961,attach,wheel,chassis,correct,
+5139,5548,attach,interior,chassis,correct,
+5548,5942,attach,cabin,interior,correct,
+5942,6452,attach,roof,cabin,mistake,wrong order
+6452,6710,attach,water tank,chassis,mistake,wrong position
+6710,6732,detach,water tank,chassis,correction,
+6732,6814,attach,base,chassis,correct,
+6814,6884,attach,water tank,base,correct,
+7368,7803,attach,water tank,water tank,correct,
+7803,8065,detach,roof,cabin,correction,
+8065,8201,attach,sound module,cabin,correct,
+8201,8630,attach,roof,cabin,correct,

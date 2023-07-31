@@ -1,0 +1,9 @@
+5604,6033,attach,cabin,chassis,mistake,wrong order
+6033,6128,attach,base,chassis,mistake,wrong order
+6128,6156,detach,base,chassis,correction,
+6156,6308,detach,cabin,chassis,correction,
+6558,7005,attach,step,chassis,correct,
+7005,7236,attach,base,chassis,correct,
+7236,7580,attach,cabin,chassis,correct,
+9388,9743,attach,dump bed,base,correct,
+9743,11534,attach,wheel,chassis,correct,

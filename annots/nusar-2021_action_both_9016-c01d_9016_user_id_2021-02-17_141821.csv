@@ -1,0 +1,10 @@
+4014,4625,attach,interior,cabin,correct,
+4625,5137,attach,bumper,cabin,correct,
+5137,5463,attach,roof,cabin,correct,
+5463,5645,attach,interior,chassis,correct,
+5645,5865,detach,roof,cabin,mistake,shouldn't have happened
+6068,6390,attach,roof,cabin,correct,
+6390,6461,attach,base,chassis,correct,
+7054,7658,attach,mixer stand,base,correct,
+7658,8115,attach,mixer,mixer stand,correct,
+8115,9748,attach,wheel,chassis,correct,

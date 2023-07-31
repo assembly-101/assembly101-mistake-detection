@@ -1,0 +1,8 @@
+6564,6936,attach,step,chassis,correct,
+6936,7351,attach,body,chassis,correct,
+7351,7614,attach,cabin,chassis,correct,
+7614,8408,attach,strap,cabin,correct,
+8889,10660,attach,wheel,chassis,correct,
+10660,11765,attach,bucket,arm,correct,
+11765,12593,attach,arm,boom,correct,
+12593,14048,attach,boom,cabin,correct,

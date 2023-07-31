@@ -1,0 +1,12 @@
+5134,5415,attach,boom,chassis,correct,
+5415,5945,attach,arm connector,boom,correct,
+5945,7688,attach,wheel,chassis,correct,
+7688,7846,attach,cabin window,cabin,correct,
+7938,8042,attach,cabin,chassis,correct,
+8042,8471,attach,body,chassis,correct,
+8732,9212,detach,wheel,chassis,mistake,shouldn't have happened
+9212,9532,attach,wheel,chassis,correct,
+9532,9622,detach,body,chassis,mistake,shouldn't have happened
+9622,10133,attach,body,chassis,correct,
+10447,10643,detach,wheel,chassis,mistake,shouldn't have happened
+11193,11571,attach,wheel,chassis,correct,

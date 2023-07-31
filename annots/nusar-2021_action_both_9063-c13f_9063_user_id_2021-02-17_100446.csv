@@ -1,0 +1,9 @@
+3260,3621,attach,step,chassis,correct,
+3852,4054,detach,step,chassis,mistake,shouldn't have happened
+4054,4348,attach,step,chassis,correct,
+4581,5068,attach,cabin,chassis,correct,
+5068,5821,attach,base,chassis,correct,
+5821,5880,detach,base,chassis,mistake,shouldn't have happened
+6517,7819,attach,base,chassis,correct,
+7964,9968,attach,wheel,chassis,correct,
+9968,10069,attach,water tank,base,correct,

@@ -1,0 +1,12 @@
+8270,8431,attach,chassis,chassis,correct,
+9809,12117,attach,wheel,chassis,correct,
+13096,13716,attach,body,chassis,correct,
+14338,15675,attach,cabin,chassis,correct,
+15675,15979,attach,bucket,arm,mistake,wrong position
+15979,16243,detach,bucket,arm,correction,
+16243,16493,attach,bucket,arm,mistake,wrong position
+16493,16525,detach,bucket,arm,correction,
+16525,17203,attach,bucket,arm,correct,
+17203,17891,attach,arm,chassis,correct,
+17891,18064,attach,arm,chassis,correct,
+18064,18476,attach,arm,bucket,correct,

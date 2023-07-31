@@ -1,0 +1,9 @@
+2713,3069,attach,roof,cabin,correct,
+3069,4089,attach,track,chassis,correct,
+4089,4825,attach,arm,track,correct,
+4825,4883,attach,body,chassis,correct,
+5150,5273,detach,body,chassis,mistake,shouldn't have happened
+5273,5340,attach,body,chassis,correct,
+5579,5674,attach,interior,chassis,correct,
+6249,6439,detach,interior,chassis,mistake,shouldn't have happened
+6439,6593,attach,interior,chassis,correct,

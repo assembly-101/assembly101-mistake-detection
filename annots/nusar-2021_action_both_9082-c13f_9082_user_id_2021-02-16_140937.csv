@@ -1,0 +1,8 @@
+3951,4163,attach,chassis,chassis,correct,
+4163,4333,attach,step,chassis,correct,
+4333,5319,attach,bumper,chassis,correct,
+5319,6075,attach,cabin,chassis,correct,
+6075,6234,attach,light,cabin,correct,
+6234,7004,attach,base,chassis,correct,
+7004,8352,attach,wheel,chassis,correct,
+8352,8443,attach,water tank,base,correct,

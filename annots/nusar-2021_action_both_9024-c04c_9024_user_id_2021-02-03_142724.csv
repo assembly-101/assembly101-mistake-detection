@@ -1,0 +1,20 @@
+5558,5838,attach,bumper,cabin,correct,
+5838,6272,attach,cabin,chassis,mistake,wrong order
+6921,6985,detach,cabin,chassis,correction,
+6985,7057,attach,interior,chassis,correct,
+7057,7131,attach,cabin,interior,correct,
+7840,9330,attach,roller,push frame,correct,
+9330,9930,attach,push frame,cabin,mistake,wrong order
+9930,10106,attach,roof,cabin,correct,
+10106,10202,detach,push frame,cabin,correction,
+10626,11005,attach,push frame,cabin,mistake,wrong order
+11005,11056,attach,arm connector,push frame,mistake,previous one is a mistake
+11056,11291,detach,push frame,cabin,correction,
+11291,11401,detach,arm connector,push frame,correction,
+11401,11773,attach,arm connector,cabin,mistake,wrong order
+11773,11970,attach,push frame,arm connector,mistake,wrong order
+11970,12004,detach,push frame,arm connector,correction,
+12004,12235,detach,arm connector,cabin,correction,
+12235,12424,attach,arm connector,push frame,correct,
+12424,13010,attach,arm connector,cabin,correct,
+13010,14912,attach,wheel,chassis,correct,

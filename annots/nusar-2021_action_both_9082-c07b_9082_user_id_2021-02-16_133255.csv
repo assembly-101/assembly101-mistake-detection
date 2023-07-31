@@ -1,0 +1,12 @@
+3701,4520,attach,basket,ladder,mistake,wrong position
+4520,4842,detach,basket,ladder,correction,
+4842,5342,attach,basket,ladder,correct,
+5342,5718,attach,turntable top,body,correct,
+5718,6609,attach,base,body,correct,
+6609,7296,attach,interior,chassis,correct,
+7296,7361,attach,cabin,interior,correct,
+7361,7432,attach,base,chassis,correct,
+7915,8316,attach,roof,cabin,correct,
+8316,8835,attach,bumper,cabin,correct,
+8835,9878,attach,wheel,chassis,correct,
+9878,10547,attach,ladder,turntable top,correct,

@@ -1,0 +1,18 @@
+5006,5422,attach,rear body,chassis,correct,
+5422,5450,detach,rear body,chassis,mistake,shouldn't have happened
+5450,5538,attach,rear body,chassis,correct,
+5587,5759,attach,body,chassis,correct,
+5759,6241,attach,bumper,rear body,correct,
+6241,6345,attach,interior,rear body,correct,
+6345,6477,attach,cabin,interior,correct,
+6477,6592,detach,body,chassis,mistake,shouldn't have happened
+6592,6665,detach,cabin,interior,mistake,shouldn't have happened
+6665,6705,detach,interior,rear body,mistake,shouldn't have happened
+6705,6733,detach,body,chassis,mistake,shouldn't have happened
+6733,6924,attach,body,chassis,correct,
+6924,7009,attach,interior,rear body,correct,
+7009,7390,attach,cabin,interior,correct,
+8211,8552,attach,roof,cabin,correct,
+8552,9619,attach,wheel,chassis,correct,
+9619,10841,attach,bucket,arm,correct,
+10841,11663,attach,arm,body,correct,

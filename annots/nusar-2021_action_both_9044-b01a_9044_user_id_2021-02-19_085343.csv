@@ -1,0 +1,26 @@
+6115,6326,attach,interior,chassis,correct,
+7092,7759,attach,wheel,chassis,correct,
+7759,7821,detach,interior,chassis,mistake,shouldn't have happened
+7821,8525,attach,wheel,chassis,correct,
+8615,9749,attach,interior,chassis,correct,
+10627,10852,attach,cabin,interior,correct,
+10852,11335,attach,roof,cabin,correct,
+11335,11572,attach,arm connector,interior,mistake,wrong order
+12043,12135,detach,arm connector,interior,correction,
+12135,12675,attach,nut,arm connector,correct,
+13590,13632,detach,nut,arm connector,mistake,shouldn't have happened
+13632,13723,attach,arm connector,interior,mistake,wrong order
+13903,14198,detach,arm connector,interior,correction,
+14612,14811,attach,arm connector,interior,mistake,wrong order
+15608,15644,detach,arm connector,interior,correction,
+16446,17829,attach,bucket,arm,correct,
+17978,18300,attach,arm connector,interior,mistake,wrong order
+18347,18428,detach,arm connector,interior,correction,
+19217,21078,attach,arm connector,nut,correct,
+21779,22013,attach,bucket,arm,correct,
+22013,22134,detach,arm connector,nut,mistake,shouldn't have happened
+22134,22333,attach,arm connector,interior,correct,
+22333,22758,attach,nut,arm connector,correct,
+22758,22902,detach,arm connector,interior,mistake,shouldn't have happened
+22902,23226,attach,arm connector,interior,correct,
+23226,23595,attach,arm connector,nut,correct,

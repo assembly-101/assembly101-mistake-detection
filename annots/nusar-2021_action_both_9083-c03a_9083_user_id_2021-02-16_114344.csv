@@ -1,0 +1,10 @@
+3568,3830,attach,chassis,chassis,correct,
+5065,7009,attach,wheel,chassis,correct,
+7009,7706,attach,body,chassis,correct,
+7706,7965,attach,arm connector,chassis,mistake,wrong order
+7965,8041,attach,excavator arm,arm connector,mistake,previous one is a mistake
+8041,8058,detach,excavator arm,arm connector,correction,
+8058,8086,detach,arm connector,chassis,correction,
+8086,8118,attach,excavator arm,arm connector,correct,
+8118,8576,attach,excavator arm,chassis,correct,
+8576,9119,attach,cabin window,chassis,correct,

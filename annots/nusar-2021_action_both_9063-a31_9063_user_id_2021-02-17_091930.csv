@@ -1,0 +1,9 @@
+3595,3672,attach,bumper,chassis,correct,
+3672,3825,attach,interior,chassis,correct,
+3882,3910,detach,bumper,chassis,mistake,shouldn't have happened
+3923,4200,attach,bumper,chassis,correct,
+4566,4801,attach,rear body,chassis,correct,
+4801,4940,attach,body,interior,correct,
+5539,5915,attach,roof,rear body,correct,
+5915,6296,attach,spoiler,rear body,correct,
+6582,8117,attach,wheel,chassis,correct,

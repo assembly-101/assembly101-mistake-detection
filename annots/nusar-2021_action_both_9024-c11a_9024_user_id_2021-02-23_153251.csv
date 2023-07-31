@@ -1,0 +1,12 @@
+3305,3501,attach,sound module,chassis,correct,
+3501,3911,attach,interior,body,correct,
+3911,4134,attach,roof,body,correct,
+4134,4819,attach,interior,chassis,correct,
+4819,5130,attach,rear bumper,body,correct,
+5130,5581,attach,bumper,body,mistake,wrong order
+5581,5701,detach,bumper,body,correction,
+5701,5960,attach,bumper,body,mistake,wrong order
+5960,6011,detach,bumper,body,correction,
+6011,6230,attach,nut,body,correct,
+6230,6582,attach,bumper,nut,correct,
+6582,7518,attach,wheel,chassis,correct,

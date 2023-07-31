@@ -1,0 +1,6 @@
+3224,3588,attach,chassis,chassis,correct,
+4079,4484,attach,dump bed,chassis,correct,
+4484,4751,attach,cabin,body,correct,
+4751,4895,attach,body,chassis,correct,
+4895,5313,attach,grill,body,correct,
+5313,6253,attach,wheel,chassis,correct,

@@ -1,0 +1,36 @@
+4473,4811,attach,chassis,chassis,mistake,wrong position
+4811,5573,attach,push frame,chassis,correct,
+5573,5785,attach,roller,push frame,correct,
+5785,6012,attach,step,chassis,mistake,wrong position
+6012,6754,attach,cabin,chassis,mistake,previous one is a mistake
+6754,7107,attach,strap,cabin,mistake,previous one is a mistake
+7107,7187,attach,body,chassis,mistake,previous one is a mistake
+7187,7301,detach,strap,cabin,correction,
+7301,7315,detach,body,chassis,correction,
+7315,7362,detach,cabin,chassis,correction,
+7546,7672,detach,step,chassis,correction,
+7751,7853,detach,roller,push frame,mistake,shouldn't have happened
+7853,8391,detach,push frame,chassis,mistake,shouldn't have happened
+8391,8439,detach,chassis,chassis,correction,
+8439,8477,attach,chassis,chassis,correct,
+8477,10364,attach,push frame,chassis,mistake,wrong position
+10364,10583,detach,push frame,chassis,correction,
+10583,10947,attach,body,chassis,correct,
+10947,11002,detach,body,chassis,mistake,shouldn't have happened
+11770,12334,attach,body,chassis,correct,
+12334,12482,attach,cabin,chassis,mistake,wrong order
+12536,12600,detach,cabin,chassis,correction,
+12600,12633,attach,step,chassis,mistake,wrong position
+12633,12971,attach,cabin,chassis,mistake,wrong order
+12971,13912,attach,strap,cabin,correct,
+13912,13993,detach,cabin,chassis,correction,
+13993,14100,detach,step,chassis,correction,
+14100,14323,attach,step,chassis,correct,
+14323,14705,attach,cabin,chassis,correct,
+15318,16251,attach,strap,cabin,correct,
+16251,16577,attach,wheel,chassis,correct,
+16577,16826,attach,roller,push frame,mistake,wrong order
+17010,17121,detach,roller,push frame,correction,
+17121,17818,attach,push frame,chassis,correct,
+17818,18213,attach,roller,push frame,correct,
+18213,19468,attach,wheel,chassis,correct,

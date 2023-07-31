@@ -1,0 +1,7 @@
+3147,3298,attach,chassis,chassis,correct,
+3298,4571,attach,wheel,chassis,correct,
+4571,5148,attach,step,chassis,correct,
+5148,5884,attach,cabin,chassis,correct,
+5884,6061,attach,light,cabin,correct,
+6061,7407,attach,base,chassis,correct,
+7407,7488,attach,water tank,base,correct,

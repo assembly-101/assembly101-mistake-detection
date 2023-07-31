@@ -1,0 +1,18 @@
+5281,6237,attach,wheel,chassis,correct,
+6237,6456,attach,interior,cabin,correct,
+6456,6554,attach,interior,chassis,correct,
+6554,7294,attach,base,chassis,correct,
+8724,8941,attach,roof,cabin,correct,
+8941,9071,attach,light,roof,correct,
+9071,9254,attach,bumper,cabin,correct,
+9254,10498,attach,body,base,correct,
+10498,10962,attach,turntable top,body,correct,
+10962,11223,attach,boom,boom,correct,
+11223,11324,attach,hook,boom,mistake,wrong order
+11324,11350,detach,hook,boom,correction,
+11489,11582,attach,hook,arm,correct,
+11764,11857,attach,arm,arm,correct,
+11857,12032,attach,arm,boom,correct,
+13130,14077,attach,boom,turntable top,correct,
+14077,14314,detach,boom,turntable top,mistake,shouldn't have happened
+14314,14577,attach,boom,turntable top,correct,

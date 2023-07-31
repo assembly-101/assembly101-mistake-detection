@@ -1,0 +1,15 @@
+3966,4371,attach,cabin,chassis,correct,
+4979,5133,attach,body,chassis,correct,
+6835,6880,detach,cabin,chassis,mistake,shouldn't have happened
+6880,6965,detach,body,chassis,mistake,shouldn't have happened
+7277,7318,attach,body,chassis,mistake,wrong position
+7318,7389,attach,cabin,chassis,mistake,wrong position
+7389,7459,detach,cabin,chassis,correction,
+7835,7921,detach,body,chassis,correction,
+8338,8433,attach,body,chassis,correct,
+8433,8736,attach,cabin,chassis,correct,
+9461,9477,detach,body,chassis,mistake,shouldn't have happened
+10540,10624,attach,body,chassis,correct,
+12524,14264,attach,wheel,chassis,correct,
+16573,16734,position,figurine,cabin,correct,
+16734,17044,attach,bulldozer arm,body,correct,

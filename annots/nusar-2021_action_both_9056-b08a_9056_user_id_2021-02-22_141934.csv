@@ -1,0 +1,15 @@
+6945,8110,attach,track,chassis,mistake,wrong position
+8110,8522,attach,body,chassis,mistake,previous one is a mistake
+8522,8599,detach,body,chassis,correction,
+8642,9132,detach,track,chassis,correction,
+9132,10076,attach,track,chassis,correct,
+10076,10263,attach,body,chassis,correct,
+10263,11006,attach,engine cover,body,correct,
+11006,11055,detach,body,chassis,mistake,shouldn't have happened
+11055,11362,attach,body,chassis,correct,
+11804,11905,attach,interior,chassis,correct,
+11905,11955,attach,interior,cabin,correct,
+11955,12321,attach,roof,cabin,correct,
+12647,15350,attach,boom,interior,correct,
+15350,15617,attach,arm,boom,correct,
+15816,16446,attach,clamp,arm,correct,

@@ -1,0 +1,10 @@
+4517,4629,attach,interior,chassis,correct,
+5271,6829,attach,wheel,chassis,correct,
+6829,7333,attach,arm connector,interior,correct,
+7333,7824,attach,arm,nut,correct,
+7824,9506,attach,bucket,arm,correct,
+9506,9557,detach,bucket,arm,mistake,shouldn't have happened
+9557,9875,attach,bucket,arm,correct,
+9875,10787,attach,arm,nut,correct,
+10787,11316,attach,cabin,interior,correct,
+11316,11465,attach,roof,cabin,correct,

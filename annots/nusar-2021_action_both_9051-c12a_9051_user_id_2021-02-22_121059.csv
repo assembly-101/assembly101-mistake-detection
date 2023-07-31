@@ -1,0 +1,9 @@
+4345,4781,attach,interior,chassis,correct,
+4781,5123,attach,base,chassis,mistake,wrong order
+5123,5137,detach,base,chassis,correction,
+5137,5221,attach,cabin,interior,correct,
+5803,6308,attach,base,chassis,correct,
+7003,7370,attach,turntable base,base,correct,
+7370,8004,attach,grill,cabin,correct,
+8004,8361,attach,roof,cabin,correct,
+8361,8986,attach,wheel,chassis,correct,

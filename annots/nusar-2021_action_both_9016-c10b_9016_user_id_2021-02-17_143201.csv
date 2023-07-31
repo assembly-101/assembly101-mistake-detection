@@ -1,0 +1,12 @@
+4984,5180,attach,light,roof,correct,
+5180,5474,attach,interior,cabin,correct,
+5474,5938,attach,bumper,cabin,correct,
+5938,6329,attach,roof,cabin,correct,
+6440,6686,detach,roof,cabin,mistake,shouldn't have happened
+6808,6970,attach,sound module,chassis,correct,
+6970,7054,attach,cabin,chassis,correct,
+7329,7780,attach,roof,cabin,correct,
+7780,8439,attach,wheel,chassis,correct,
+8810,9012,attach,base,chassis,correct,
+9344,11042,attach,cylinder,base,correct,
+11042,11638,attach,wheel,chassis,correct,

@@ -1,0 +1,14 @@
+5337,5416,attach,excavator arm,chassis,mistake,wrong position
+5416,5989,attach,arm connector,excavator arm,mistake,previous one is a mistake
+5989,6451,detach,excavator arm,chassis,correction,
+6451,6509,detach,arm connector,excavator arm,correction,
+6509,6561,attach,excavator arm,chassis,correct,
+6561,7109,attach,arm connector,excavator arm,correct,
+7779,8226,attach,body,chassis,correct,
+8226,8294,attach,cabin window,chassis,correct,
+8294,8802,attach,cabin,cabin window,correct,
+8802,8847,detach,cabin,cabin window,mistake,shouldn't have happened
+8847,8911,detach,cabin window,chassis,mistake,shouldn't have happened
+8911,8969,attach,cabin window,chassis,correct,
+8969,9484,attach,cabin,cabin window,correct,
+9484,11515,attach,wheel,chassis,correct,

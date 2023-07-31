@@ -1,0 +1,36 @@
+4573,6011,attach,wheel,chassis,correct,
+6011,6724,attach,interior,chassis,correct,
+6724,6795,attach,cabin,interior,correct,
+6795,7332,attach,bumper,cabin,correct,
+7332,7474,attach,base,chassis,correct,
+7474,7544,detach,base,chassis,mistake,shouldn't have happened
+7605,7917,detach,bumper,cabin,mistake,shouldn't have happened
+7917,7948,detach,cabin,interior,mistake,shouldn't have happened
+7948,8225,detach,interior,chassis,mistake,shouldn't have happened
+8225,8632,attach,base,chassis,mistake,wrong order
+8632,8939,attach,interior,chassis,correct,
+8939,9249,attach,cabin,interior,mistake,previous one is a mistake
+9249,9308,detach,cabin,interior,correction,
+9308,9339,detach,base,chassis,correction,
+9339,9406,attach,base,chassis,mistake,wrong order
+9406,9557,detach,interior,chassis,mistake,shouldn't have happened
+9557,9645,detach,base,chassis,correction,
+9645,10225,attach,base,chassis,mistake,wrong order
+10225,10396,attach,interior,chassis,correct,
+10396,10410,detach,interior,chassis,mistake,shouldn't have happened
+10410,10418,detach,base,chassis,correction,
+10418,10709,attach,interior,chassis,correct,
+10709,10875,attach,cabin,interior,correct,
+10875,10915,attach,base,chassis,correct,
+10915,10950,detach,base,chassis,mistake,shouldn't have happened
+10972,11521,attach,bumper,cabin,correct,
+11521,11822,attach,base,chassis,correct,
+11822,12237,attach,mixer stand,base,mistake,wrong position
+12237,12267,detach,mixer stand,base,correction,
+12267,12560,attach,mixer stand,base,correct,
+12560,12647,detach,mixer stand,base,mistake,shouldn't have happened
+12647,12826,detach,base,chassis,mistake,shouldn't have happened
+12826,12887,attach,base,chassis,correct,
+13270,14052,attach,mixer stand,base,correct,
+14638,14926,attach,mixer,mixer stand,correct,
+14926,15453,attach,roof,cabin,correct,

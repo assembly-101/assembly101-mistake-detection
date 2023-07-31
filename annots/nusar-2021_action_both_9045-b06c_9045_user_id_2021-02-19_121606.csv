@@ -1,0 +1,8 @@
+4998,5665,attach,boom,turntable top,correct,
+5665,6222,attach,bucket,boom,correct,
+6645,7506,attach,interior,chassis,correct,
+7506,8444,attach,turntable base,interior,correct,
+8444,8958,attach,cabin,interior,correct,
+8958,11010,attach,wheel,chassis,correct,
+11010,11754,detach,wheel,chassis,mistake,shouldn't have happened
+11754,12141,attach,wheel,chassis,correct,

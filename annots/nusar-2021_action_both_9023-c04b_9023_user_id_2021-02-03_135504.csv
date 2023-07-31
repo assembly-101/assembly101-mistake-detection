@@ -1,0 +1,50 @@
+5699,7377,attach,wheel,chassis,correct,
+7377,7614,attach,interior,chassis,mistake,wrong position
+8542,9523,attach,cabin,interior,correct,
+9523,9556,detach,cabin,interior,mistake,shouldn't have happened
+9664,9783,detach,arm connector,boom,mistake,shouldn't have happened
+9783,9940,attach,arm connector,chassis,correct,
+9940,9984,detach,arm connector,chassis,mistake,shouldn't have happened
+9984,10074,attach,boom,arm connector,correct,
+10074,10542,attach,arm connector,chassis,correct,
+10542,10815,attach,cabin,interior,correct,
+10815,10874,detach,cabin,interior,mistake,shouldn't have happened
+10874,11145,detach,arm connector,chassis,correct,
+11145,11932,attach,cabin,interior,correct,
+11932,11953,detach,arm connector,boom,mistake,shouldn't have happened
+11953,12186,attach,arm connector,chassis,correct,
+12186,12249,detach,cabin,interior,mistake,shouldn't have happened
+12249,12730,attach,cabin,interior,correct,
+12730,12768,detach,cabin,interior,mistake,shouldn't have happened
+12768,12811,detach,arm connector,chassis,mistake,shouldn't have happened
+12953,13202,attach,arm connector,chassis,correct,
+13202,13400,detach,cabin,interior,mistake,shouldn't have happened
+13400,13507,attach,cabin,interior,correct,
+13507,13541,detach,cabin,interior,mistake,shouldn't have happened
+13541,14068,attach,roof,cabin,correct,
+14068,14548,attach,cabin,interior,correct,
+14548,14694,attach,arm connector,chassis,correct,
+14694,14760,attach,boom,arm connector,correct,
+14760,14790,detach,boom,arm connector,mistake,shouldn't have happened
+14790,14832,detach,cabin,chassis,mistake,shouldn't have happened
+14832,14972,detach,arm connector,chassis,mistake,shouldn't have happened
+14972,15241,attach,cabin,interior,correct,
+15241,15337,detach,cabin,interior,mistake,shouldn't have happened
+15337,15427,attach,arm connector,chassis,correct,
+15427,15489,detach,arm connector,chassis,mistake,shouldn't have happened
+15489,15670,attach,boom,arm connector,correct,
+15670,15975,attach,arm connector,chassis,correct,
+15975,16451,attach,cabin,interior,correct,
+16821,17057,detach,cabin,interior,mistake,shouldn't have happened
+17057,17231,detach,arm connector,chassis,mistake,shouldn't have happened
+17231,17727,attach,cabin,interior,correct,
+17727,18202,detach,cabin,interior,mistake,shouldn't have happened
+18202,18454,attach,cabin,interior,correct,
+18454,18679,detach,cabin,interior,mistake,shouldn't have happened
+18679,18775,detach,interior,chassis,correction,
+18775,18970,attach,interior,chassis,correct,
+19240,19498,attach,cabin,interior,correct,
+19498,19947,attach,arm connector,chassis,correct,
+19947,20429,attach,arm,boom,correct,
+20429,21312,attach,jackhammer,arm,correct,
+21312,21948,attach,bumper,cabin,correct,

@@ -1,0 +1,12 @@
+3805,4007,attach,base,dump bed,mistake,wrong position
+4007,4128,detach,base,dump bed,correction,
+4128,4685,attach,cylinder,base,correct,
+4685,5807,attach,cylinder,dump bed,correct,
+6023,6111,attach,sound module,chassis,correct,
+6111,6459,attach,interior,chassis,correct,
+6459,6539,attach,cabin,interior,correct,
+6539,6919,attach,bumper,cabin,correct,
+6919,7036,attach,light,roof,correct,
+7036,7329,attach,roof,cabin,correct,
+7329,7424,attach,base,chassis,correct,
+8088,9152,attach,wheel,chassis,correct,

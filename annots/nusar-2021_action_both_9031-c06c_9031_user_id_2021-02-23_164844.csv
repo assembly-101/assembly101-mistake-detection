@@ -1,0 +1,13 @@
+6979,8134,attach,wheel,chassis,correct,
+8134,8350,attach,sound module,cabin,correct,
+8350,8511,attach,light,cabin,correct,
+8511,9300,attach,cabin,interior,correct,
+9300,10121,attach,roof,cabin,correct,
+10121,10461,attach,turntable base,base,mistake,wrong order
+10461,10492,detach,turntable base,base,correction,
+10492,11319,attach,base,chassis,correct,
+11319,11499,attach,cabin,interior,correct,
+11499,11784,attach,turntable base,base,mistake,wrong order
+11784,11893,detach,turntable base,base,correction,
+12033,12502,attach,turntable base,base,correct,
+12502,13063,attach,crane arm,turntable base,correct,

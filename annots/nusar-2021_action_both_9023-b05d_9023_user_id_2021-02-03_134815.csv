@@ -1,0 +1,11 @@
+4643,5065,attach,rear bumper,chassis,correct,
+5065,5566,attach,bumper,chassis,mistake,wrong position
+5566,6320,attach,dump bed,chassis,correct,
+6320,6414,attach,cabin,chassis,mistake,previous is a mistake
+6414,6450,detach,cabin,chassis,correction,
+6908,6959,attach,cabin,chassis,mistake,previous is a mistake
+7325,7347,detach,cabin,chassis,correction,
+7347,7598,detach,bumper,chassis,correction,
+7598,7904,attach,cabin,chassis,correct,
+7904,8671,attach,bumper,cabin,correct,
+8671,9896,attach,lid,dump bed,correct,

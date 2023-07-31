@@ -1,0 +1,25 @@
+5416,7865,attach,wheel,chassis,correct,
+8215,9202,attach,base,chassis,mistake,wrong order
+9400,9943,detach,base,chassis,correction,
+9943,10138,attach,step,chassis,correct,
+10138,10970,attach,base,chassis,correct,
+10970,11486,attach,interior,chassis,correct,
+11486,11775,attach,door,window,correct,
+11775,12093,attach,cabin back,chassis,correct,
+12093,12681,attach,door,chassis,correct,
+12681,12766,detach,cabin back,chassis,mistake,shouldn't have happened
+12766,12811,detach,door,chassis,mistake,shouldn't have happened
+12811,12861,attach,cabin back,interior,correct,
+12861,13015,attach,door,chassis,correct,
+13015,13085,detach,cabin back,chassis,mistake,shouldn't have happened
+13085,14161,attach,door,chassis,correct,
+14161,14334,attach,cabin back,chassis,correct,
+14334,14732,attach,windshield,chassis,correct,
+14732,14903,attach,roof,cabin back,correct,
+14903,15057,detach,door,chassis,mistake,shouldn't have happened
+15057,15093,detach,cabin back,chassis,mistake,shouldn't have happened
+15093,15155,detach,roof,cabin back,mistake,shouldn't have happened
+15155,15527,attach,door,chassis,correct,
+15527,15777,attach,roof,cabin back,correct,
+16460,16669,attach,cabin back,chassis,correct,
+17229,17485,attach,container,base,correct,

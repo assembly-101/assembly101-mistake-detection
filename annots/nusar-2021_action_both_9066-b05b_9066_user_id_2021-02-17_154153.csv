@@ -1,0 +1,17 @@
+7219,7625,attach,interior,chassis,correct,
+8773,10257,attach,wheel,chassis,correct,
+10257,10741,attach,rear bumper,interior,correct,
+10741,10945,attach,bumper,interior,mistake,wrong order
+10945,10982,attach,cabin,interior,mistake,previous one is a mistake
+10982,11033,detach,cabin,interior,correction,
+11049,11155,detach,bumper,interior,correction,
+11155,11490,attach,cabin,interior,correct,
+11490,11944,attach,bumper,cabin,correct,
+11944,12655,attach,turntable base,interior,correct,
+12655,13546,attach,turntable top,turntable base,correct,
+13546,14109,attach,boom,boom,correct,
+14109,14573,attach,boom,arm,correct,
+14573,14597,detach,arm,boom,mistake,shouldn't have happened
+14597,14923,attach,arm,boom,correct,
+14923,15408,attach,hook,arm,correct,
+15408,16295,attach,boom,turntable top,correct,

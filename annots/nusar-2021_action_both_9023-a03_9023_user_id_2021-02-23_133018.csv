@@ -1,0 +1,12 @@
+4412,4533,attach,chassis,chassis,correct,
+4822,4886,attach,chassis,chassis,correct,
+5133,5337,attach,chassis,chassis,correct,
+5797,5988,attach,cabin,chassis,mistake,wrong position
+5988,6085,attach,body,chassis,mistake,wrong position
+6085,6123,detach,cabin,chassis,correction,
+6123,6158,detach,body,chassis,correction,
+6158,6226,attach,body,chassis,correct,
+6226,6316,attach,cabin,chassis,correct,
+7551,9057,attach,track,chassis,correct,
+9057,9812,attach,blade,track,correct,
+9812,9954,position,figurine,cabin,correct,

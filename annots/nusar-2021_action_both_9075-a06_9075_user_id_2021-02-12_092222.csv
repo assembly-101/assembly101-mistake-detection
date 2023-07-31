@@ -1,0 +1,14 @@
+6367,6828,attach,cabin,chassis,correct,
+6828,7304,attach,body,chassis,correct,
+7304,7364,detach,body,chassis,mistake,shouldn't have happened
+7720,7974,attach,body,chassis,correct,
+8422,8993,attach,engine cover,body,correct,
+8993,9227,attach,wheel,chassis,correct,
+9227,9681,attach,track,chassis,correct,
+9681,9776,detach,track,chassis,mistake,shouldn't have happened
+9776,9933,detach,wheel,chassis,mistake,shouldn't have happened
+9933,9960,attach,wheel,track,correct,
+9960,10573,attach,wheel,chassis,correct,
+10573,10756,attach,wheel,track,correct,
+10756,11390,attach,wheel,chassis,correct,
+11390,12280,attach,boom,cabin,correct,

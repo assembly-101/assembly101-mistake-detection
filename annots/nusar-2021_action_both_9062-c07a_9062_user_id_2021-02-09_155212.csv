@@ -1,0 +1,15 @@
+6755,8708,attach,wheel,chassis,correct,
+9615,9760,attach,interior,chassis,correct,
+10196,10530,attach,cabin,interior,correct,
+10530,11033,attach,bumper,body,correct,
+11033,11224,detach,bumper,body,mistake,shouldn't have happened
+11224,11322,attach,body,chassis,correct,
+11322,12385,attach,bumper,body,correct,
+12405,12438,detach,bumper,body,mistake,shouldn't have happened
+12841,13001,detach,body,chassis,mistake,shouldn't have happened
+13001,13050,attach,body,chassis,correct,
+14160,14960,attach,roof,cabin,correct,
+14960,15632,attach,arm connector,boom,correct,
+15632,15694,attach,arm connector,chassis,correct,
+15863,17035,attach,arm,boom,correct,
+17035,17929,attach,bucket,arm,correct,

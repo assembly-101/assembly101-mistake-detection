@@ -1,0 +1,15 @@
+6182,7024,attach,wheel,chassis,correct,
+7024,7236,attach,interior,chassis,mistake,wrong position
+9114,9414,detach,interior,chassis,correction,
+9414,9556,attach,interior,chassis,mistake,wrong position
+9813,9907,detach,interior,chassis,correction,
+9907,9978,attach,interior,chassis,correct,
+12273,12578,attach,arm connector,interior,mistake,wrong order
+12578,12717,attach,nut,arm connector,mistake,wrong position
+12717,12785,detach,nut,arm connector,correction,
+12792,12912,detach,arm connector,interior,correction,
+12912,13113,attach,nut,arm connector,correct,
+13113,13269,attach,arm connector,interior,correct,
+13442,14442,attach,push frame,arm,correct,
+14442,14728,attach,cabin,interior,correct,
+14728,15226,attach,roof,cabin,correct,

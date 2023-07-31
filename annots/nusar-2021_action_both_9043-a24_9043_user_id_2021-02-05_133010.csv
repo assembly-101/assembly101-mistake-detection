@@ -1,0 +1,15 @@
+3589,4999,attach,wheel,chassis,correct,
+4999,5111,attach,engine,chassis,correct,
+5111,5441,attach,interior,chassis,correct,
+5441,5621,attach,body,engine,mistake,wrong order
+5763,6164,attach,engine cover,body,correct,
+6164,6402,attach,rear body,interior,mistake,wrong order
+6974,7188,detach,rear body,interior,correction,
+7188,7420,attach,rocker panel,chassis,mistake,previous one is mistake
+7420,7459,detach,rocker panel,chassis,correction,
+7459,7795,detach,body,engine,correction,
+7795,8390,attach,rocker panel,chassis,correct,
+8390,8622,attach,body,engine,correct,
+8622,8967,attach,rear body,interior,correct,
+8967,9134,attach,roof,rear body,correct,
+9134,9611,attach,bumper,body,correct,

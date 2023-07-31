@@ -1,0 +1,14 @@
+4724,5384,attach,interior,chassis,correct,
+5384,5910,attach,windshield,chassis,correct,
+5910,9784,attach,door,chassis,correct,
+9784,9960,attach,cabin back,chassis,correct,
+9960,10069,attach,roof,cabin back,correct,
+10069,10085,detach,cabin back,chassis,mistake,shouldn't have happened
+10094,10284,attach,cabin back,chassis,correct,
+10523,10548,detach,cabin back,chassis,mistake,shouldn't have happened
+10552,10755,attach,cabin back,chassis,correct,
+11012,11787,attach,window,door,correct,
+11787,14661,attach,base,chassis,correct,
+14661,15412,attach,container,base,correct,
+15412,15621,attach,connector,roof,correct,
+15621,17760,attach,wheel,chassis,correct,

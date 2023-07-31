@@ -1,0 +1,12 @@
+2186,3074,attach,roller,push frame,correct,
+3074,3519,attach,arm connector,push frame,correct,
+3519,3971,attach,arm connector,chassis,mistake,wrong order
+3971,4092,attach,body,chassis,correct,
+4092,4268,attach,interior,chassis,mistake,previous one is a mistake
+4268,4433,attach,cabin,interior,correct,
+4433,4676,detach,arm connector,chassis,correction,
+4676,4693,detach,interior,chassis,correction,
+4693,4722,attach,interior,chassis,correct,
+4722,5200,attach,arm connector,chassis,correct,
+5662,5979,attach,roof,cabin,correct,
+5979,7040,attach,wheel,chassis,correct,

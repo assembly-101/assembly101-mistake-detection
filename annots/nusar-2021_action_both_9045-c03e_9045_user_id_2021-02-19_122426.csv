@@ -1,0 +1,9 @@
+3626,3757,attach,cabin window,chassis,correct,
+3757,4273,attach,cabin,cabin window,correct,
+4273,4532,attach,arm connector,chassis,mistake,wrong position
+4532,4656,attach,boom,arm connector,mistake,previous one is a mistake
+4656,4656,detach,boom,arm connector,correction,
+4656,4677,detach,arm connector,chassis,correction,
+4677,4699,attach,boom,chassis,correct,
+4699,5295,attach,arm connector,boom,correct,
+5295,6794,attach,wheel,chassis,correct,

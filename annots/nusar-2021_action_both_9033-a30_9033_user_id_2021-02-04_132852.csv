@@ -1,0 +1,10 @@
+1339,1912,attach,interior,chassis,correct,
+1912,2176,attach,back seat,chassis,correct,
+2176,2534,attach,nut,body,correct,
+2534,2758,attach,body,interior,correct,
+6928,11855,attach,wheel,chassis,correct,
+12618,15610,attach,wheel,chassis,correct,
+15610,15779,detach,wheel,chassis,mistake,shouldn't have happened
+16781,17458,attach,wheel,chassis,correct,
+17458,18153,attach,roof,body,correct,
+18153,19169,attach,door,body,correct,
