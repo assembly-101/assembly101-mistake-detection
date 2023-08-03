@@ -1,21 +1,43 @@
-# mistake-detection
+# assembly101-mistake-detection
+This repository contains annotations for the Mistake Detection benchmark of Assembly101. Please refer to [Every Mistake Counts in Assembly](https://arxiv.org/abs/2307.16453) for further details regarding annotations and baselines.
 
-## Annotation
-Each CSV file corresponds to an assembly sequence, and within each CSV file are the annotations. 
-- There are 328 sequences in total. 
-- Each annotation contains the 
-  - **start** and **end** timestamps, followed by the 
-  - **verb** (attach, detach) and the 
-  - two working objects (**this, that**), the 
-  - mistake **label** and the 
-  - **remark** are then appended.
+If you find these annotations helpful and use them in your research, kindly cite the following:
+```
+@article{sener2022assembly101,
+    title = {Assembly101: A Large-Scale Multi-View Video Dataset for Understanding Procedural Activities},
+    author = {F. Sener and D. Chatterjee and D. Shelepov and K. He and D. Singhania and R. Wang and A. Yao},
+    journal = {CVPR 2022},
+}
 
-### Examplar
+@article{ding2023every,
+  title={Every Mistake Counts in Assembly},
+  author={Ding, Guodong and Sener, Fadime and Ma, Shugao and Yao, Angela},
+  journal={arXiv preprint arXiv:2307.16453},
+  year={2023}
+}
+```
 
-For example:
-**nusar-2021_action_both_9033-c02a_9033_user_id_2021-02-04_140532.csv**
+## Annotations
+Each .csv file provides the mistake annotation for an assembly sequence.
+- There are 328 sequences in total.
+- Each annotation contains:
+  - `start` and `end` timestamps
+  - `verb` (attach, detach) 
+  - two working objects (`this`, `that`) 
+  - mistake `label`
+  - `remark` (if any)
 
-- **9033** is the actor while **c02d** is the toy id.
+## File structure
+
+For the assembly sequence `nusar-2021_action_both_9033-c02a_9033_user_id_2021-02-04_140532.csv`
+
+- `9033` is the actor while `c02a` is the toy id.
+- `wrong order` : this action is an ordering mistake
+- `previous one is mistake` : this action is also an ordering mistake but is caused by the preceding ordering mistakes in the context
+- `shouldn't have happened` : this detach action is unnecessary
+- `wrong position` : the two parts are not attached at their correct position
+
+<br/>
 
 | start      | end      | verb     | this          | that          | label      | remark                  |
 |------------|----------|----------|---------------|---------------|------------|-------------------------|
@@ -49,23 +71,9 @@ For example:
 | 24401      | 25738    | attach   | bumper        | body          | correct    |                         |
 | 25738      | 27434    | attach   | wheel         | chassis       | correct    |                         |
 
-- **wrong order**: meaning the action is a mistake in ordering
-- **previous one is mistake**: meaning this action is also an ordering mistake but caused by preceding ordering mistakes in context
-- **shouldn't have happened**: meaning this action is unnecessary detach of parts
-- **wrong position**: meaning the two parts are not attached in the right position
 
+**Note**: There is no *correction* for the *shouldn't have happened* type of mistake.
 
-There is no *correction* for the *shouldn't have happened* type of mistake.
-
-If you find the annotations helpful and use them in your research, kindly cite the following:
-```
-@article{ding2023every,
-  title={Every Mistake Counts in Assembly},
-  author={Ding, Guodong and Sener, Fadime and Ma, Shugao and Yao, Angela},
-  journal={arXiv preprint arXiv:2307.16453},
-  year={2023}
-}
-```
 
 ## License
 Assembly101 is licensed by us under the Creative Commons Attribution-NonCommerial 4.0 International License, found [here](https://creativecommons.org/licenses/by-nc/4.0/). The terms are :
