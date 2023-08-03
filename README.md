@@ -17,7 +17,7 @@ If you find these annotations helpful and use them in your research, kindly cite
 }
 ```
 
-## Annotations
+## File structure
 Each .csv file provides the mistake annotation for an assembly sequence.
 - There are 328 sequences in total.
 - Each annotation contains:
@@ -27,7 +27,7 @@ Each .csv file provides the mistake annotation for an assembly sequence.
   - mistake `label`
   - `remark` (if any)
 
-## File structure
+## Example Annotation
 
 For the assembly sequence `nusar-2021_action_both_9033-c02a_9033_user_id_2021-02-04_140532.csv`
 
