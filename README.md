@@ -1,14 +1,14 @@
 # mistake-detection
 
 ## Annotation
-Each csv file corresponds to an assembly sequence within each csv file are the annotations. 
-- There are in total 328 sequences. 
+Each CSV file corresponds to an assembly sequence, and within each CSV file are the annotations. 
+- There are 328 sequences in total. 
 - Each annotation contains the 
   - **start** and **end** timestamps, followed by the 
   - **verb** (attach, detach) and the 
   - two working objects (**this, that**), the 
   - mistake **label** and the 
-  - **remark** are then appened.
+  - **remark** are then appended.
 
 ### Examplar
 
@@ -50,14 +50,22 @@ For example:
 | 25738      | 27434    | attach   | wheel         | chassis       | correct    |                         |
 
 - **wrong order**: meaning the action is a mistake in ordering
-- **previous one is mistake**: meaning this action is also a ordering mistake but caused by preceding ordering mistakes in context
-- **shouldn't have happened**: meaning this action is uncessary detach of parts
+- **previous one is mistake**: meaning this action is also an ordering mistake but caused by preceding ordering mistakes in context
+- **shouldn't have happened**: meaning this action is unnecessary detach of parts
 - **wrong position**: meaning the two parts are not attached in the right position
 
 
 There is no *correction* for the *shouldn't have happened* type of mistake.
 
-
+If you find the annotations helpful and use them in your research, kindly cite the following:
+```
+@article{ding2023every,
+  title={Every Mistake Counts in Assembly},
+  author={Ding, Guodong and Sener, Fadime and Ma, Shugao and Yao, Angela},
+  journal={arXiv preprint arXiv:2307.16453},
+  year={2023}
+}
+```
 
 ## License
 Assembly101 is licensed by us under the Creative Commons Attribution-NonCommerial 4.0 International License, found [here](https://creativecommons.org/licenses/by-nc/4.0/). The terms are :
